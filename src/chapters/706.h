@@ -1,0 +1,10 @@
+const char* chap706 = "Cast thy bread upon the passing waters: because after much time thou shalt find it.\n"
+	"Give a portion to seven, and also to eight: because thou knowest not what evil shall be upon the earth:\n"
+	"If the clouds be full, they will pour out rain upon the earth. If the tree shall fall to the South, or the North, in what place soever it shall fall there shall it be.\n"
+	"He that observeth the wind, soweth not: and he that considereth the clouds, shall never reap.\n"
+	"As thou art ignorant which is the way of the spirit, & how the bones are framed together in the womb of her that conceiveth child: so thou knowest not the works of God, who is the maker of all.\n"
+	"In the morning sow thy seed, and in the evening let not thy hand cease: for thou knowest not which may rather spring, this or that: and if both together, it shall be the better.\n"
+	"The light is sweet: and it is delectable for the eyes to see the sun.\n"
+	"If a man shall live many years, and shall have rejoiced in them all, he must remember the darksome time, and many days, which when they shall come, the things past shall be reproved of vanity.\n"
+	"Rejoice therefore youngman in thy youth, and let thy heart be in good, in the days of thy youth, and walk in the ways of thy heart, and in the sight of thine eyes: and know that for all these God will bring thee into judgement.\n"
+	"Take away anger from thy heart, and remove malice from thy flesh. For youth and pleasure are vain.";

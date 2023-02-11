@@ -1,0 +1,11 @@
+const char* chap265 = "Therefore all the companies of the Philisthiims were gathered together into Aphec: and Israel also camped upon the fountain, which was in Jezrahel.\n"
+	"And the Princes indeed of the Philisthiims marched in hundreds and thousands: but David and his men were in the last company with Achis.\n"
+	"And the Princes of the Philisthiims said to Achis: What mean these Hebrews? And Achis said to the Princes of the Philisthiims: Do you not know David, which was the servant of Saul the king of Israel, and is with me many days, or years, and I have not found any thing in him, since the day that he fled to me, until this day?\n"
+	"But the Princes of the Philisthiims were angry against him, and said to him: Let this man return, and abide in his place, wherein thou hast appointed him, & let him not go down with us into battle, lest he become an adversary to us, when we shall begin to fight: for how can he otherwise pacify his lord, but in our heads?\n"
+	"Is not this David, to whom they sang in dances, saying: Saul hath struck his thousands, and David his ten thousands?\n"
+	"Achis therefor called David, and said to him: The Lord liveth, thou art just, and good in my sight: and thy going out, and thy coming in is with me in the camp: and I have not found in thee any evil, since the day that thou camest to me until this day: but thou pleasest not the nobles.\n"
+	"Return therefore, and go in peace, and offend not the eyes of the Princes of the Philisthiims.\n"
+	"And David said to Achis: For what have I done, and what hast thou found in me thy servant, since the day that I have been in thy fight, until this day, that I may not come, and fight against the enemies of my lord the king?\n"
+	"And Achis answering spake to David: I know that thou art good in my sight, as an Angel of God: but the Princes of the Philisthiims have said: He shall not go up with us into battle.\n"
+	"Therefore arise in the morning, thou, and the servants of thy lord, which came with thee: and when you are risen in the night, and it shall begin to wax light, go forward.\n"
+	"David therefore arose in the night, he and his men, that they might set forward in the morning, and return to the land of the Philisthiims: and the Philisthiims went up into Jezrahel.";

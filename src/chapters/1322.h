@@ -1,0 +1,11 @@
+const char* chap1322 = "AND I saw another Angel, strong, descending from heaven, clothed with a cloud, and a rain-bow on his head, and his face was as the sun, and his feet as a pillar of fire.\n"
+	"And he had in his hand a little book opened: and he put his right foot upon the sea, and his left upon the land.\n"
+	"And he cried with a loud voice, as when a lion roareth. And when he had cried, the seven thunders spake their voices.\n"
+	"And when the seven thunders had spoken their voices, I was about to write: and I heard a voice from heaven saying to me: Sign the things which the seven thunders have spoken; and write them not.\n"
+	"And the Angel which I saw standing upon the sea and upon the land, lifted up his hand to heaven,\n"
+	"and he sware by him that liveth for ever and ever, that created heaven and those things which are in it: and the earth, and those things which are in it: and the sea, and those things which are in it: That there shall be time no more:\n"
+	"but in the days of the voice of the seventh Angel, when the trumpet shall begin to sound, the mystery of God shall be consummate, as he hath evangelized by his servants the Prophets.\n"
+	"And I heard a voice from heaven again speaking with me, and saying: Go, and take the book that is opened, of the hand of the Angel standing upon the sea and upon the land.\n"
+	"And I went to the Angel, saying unto him, that he should give me the book. And he said to me: Take the book, and devour it: and it shall make thy belly to be bitter, but in thy mouth it shall be sweet as it were honey.\n"
+	"And I took the book of the hand of the Angel, and devoured it: and it was in my mouth as it were honey, sweet. And when I had devoured it, my belly was made bitter,\n"
+	"and he said to me: Thou must again prophesy to Nations, and peoples, and tongues, and many kings.";

@@ -1,0 +1,12 @@
+const char* chap389 = "And the inhabitants of Jerusalem made Ochozias his least son king for him: for all the elders, that had been before him, the rovers of the Arabians had slain, which invaded the camp: and Ochozias the son of Joram the king of Juda reigned.\n"
+	"Two & forty years old was Ochozias when he began to reign, & he reigned one year in Jerusalem, and the name of his mother was Athalia the daughter of Amri.\n"
+	"But he also went by the ways of the house of Achab: for his mother forced him to do impiously.\n"
+	"He therefore did evil in the sight of our Lord, as the house of Achab: for they were his counsellers after the death of his father, to his destruction.\n"
+	"And he walked in their counsels. And he went forth with Joram the son of Achab king of Israel, into battle against Hazael king of Syria, into Ramoth Galaad: and the Syrians wounded Joram.\n"
+	"Who returned to be cured into Jezrael: for he had taken many wounds in the foresaid battle. Therefore Ochozias the son of Joram king of Juda, went down to visit Joram the son of Achab in Jezrael being sick.\n"
+	"For it was the will of God against Ochozias, that he should come to Joram: and when he was come he should go out also against Jehu the son of Namsi, whom our Lord anointed to destroy the house of Achab.\n"
+	"When Jehu therefore overthrew the house of Achab, he found the Princes of Juda, and the son of the brethren of Ochozias, which served him, and he slew them.\n"
+	"Searching also for Ochozias himself, he took him lying hid in Samaria: and being brought unto him, he killed him, and they buried him: because he was the son of Josaphat, who had sought our Lord in all his heart neither was there any more hope that any should reign of the stock of Ochozias.\n"
+	"For Athalia his mother, seeing that her son was dead, arose, & slew all the king's stock of the house of Joram.\n"
+	"Saving that Josabeth the king's daughter took Joas the son of Ochozias, and stole him out of the midst of the king's sons, when they were slain, and she hid him with his nurse in the bed chamber: and Josabeth that hid him, was the daughter of king Joram, the wife of Joiada the high Priest, the sister of Ochozias, and therefore Athalia did not kill him.\n"
+	"He therefore was with them in the house of God six years, in the which Athalia reigned over the Land.";

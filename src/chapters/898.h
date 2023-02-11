@@ -1,0 +1,7 @@
+const char* chap898 = "The word of our Lord that was made to Jeremy the Prophet against the Palesthines, before Pharao struck Gaza:\n"
+	"Thus saith our Lord: Behold there come up waters from the North, and they shall be as a torrent overflowing, and they shall cover the earth, and the fullness thereof, the city and the inhabitants thereof: men shall cry, and all the inhabitants of the land shall howl.\n"
+	"at the noise of the pomp of the armour, and of his men of war, at the commotion of his chariots, and the multitude of his wheels. The fathers have not respected the children, being of dissolute hands,\n"
+	"for the coming of the day, wherein all the Philisthiims shall be wasted, and Tyre, and Sidon shall be destroyed with all the rest of their aids. For our Lord hath spoiled the Palesthines, the remnant of the isle of Cappadocia.\n"
+	"Baldness is come upon Gaza. Ascalon hath held her peace, and the remnant of her valley, how long shalt thou be hewed?\n"
+	"O sword of our Lord, how long wilt thou not be quiet? Get into thy scabbard, be cooled, and be still.\n"
+	"How shall it be quiet when our Lord hath commanded it against Ascalon, and against the countries thereof by the sea side, and there^ hath made appointment with it?";

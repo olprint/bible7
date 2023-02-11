@@ -1,0 +1,11 @@
+const char* chap982 = "In their tribulation early they will rise up to me: Come, & let us return to our Lord.\n"
+	"Because he hath wounded, & will heal us: he will strike, & will cure us.\n"
+	"He will revive us after two days: in the third day he will raise us up, & we shall live in his sight. We shall know, & we shall follow, that we may know our Lord. As the morning light, is his coming forth prepared, and he will come to us as a shower timely, and late to the earth.\n"
+	"What shall I do to thee Ephraim? What shall I do to thee Juda? Your mercy as a morning cloud, & as the dew passing away in the morning.\n"
+	"For this have I hewed in Prophets, I have killed them in the words of my mouth: and thy judgements shall come forth as the light:\n"
+	"because I would mercy, and not sacrifice: and the knowledge of God more than holocausts.\n"
+	"But they as Adam have transgressed the covenant, there have they prevaricated against me.\n"
+	"Galaad a city of them that work idol, supplanted with blood.\n"
+	"And as it were the jaws of men that are robbers, partaker with the Priests, of them that in the way kill those that pass out of Sichem: because they have wrought wickedness.\n"
+	"In the house of Israel I saw an horrible thing: there the fornications of Ephraim: Israel is contaminated.\n"
+	"Yea and thou Juda put thee an harvest, when I shall convert the captivity of my people.";

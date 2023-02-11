@@ -1,0 +1,11 @@
+const char* chap701 = "There is also another evil, which I have seen under the sun, and that frequent with men:\n"
+	"A man to whom God hath given riches, and substance, and honour, and nothing is lacking to his soul of all things, which he desireth: neither doth God give him power to eat thereof: but a strange man shall eat it up. This is vanity and great misery.\n"
+	"If a man shall beget an hundred children, and shall live many years, and have many days of age, and his soul use not the goods of his substance, and he lack burial: of this man I pronounce, that the untimely born is better than he.\n"
+	"For he came in vain, and passeth to darkness, and his name shall be clean forgotten.\n"
+	"He hath not seen the sun, nor known the distance of good and evil:\n"
+	"although he lived two thousand years, and hath not enjoyed good things: do not all things hasten to one place?\n"
+	"All the labour of man is in his mouth: but his soul shall not be filled.\n"
+	"What hath the wiseman more than the fool? And what the poor man, but to pass thither, where life is?\n"
+	"Better it is to see that, which thou mayst covet, than to desire that, which thou canst not know. But this also is vanity, and presumption of spirit.\n"
+	"He that shall be, his name is already called: and it is known, that he is a man, and cannot contend in judgement against a stronger than himself.\n"
+	"There be many words, that have much vanity in disputing.";

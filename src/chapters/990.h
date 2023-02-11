@@ -1,0 +1,10 @@
+const char* chap990 = "Let Samaria perish, because she hath stirred up her God to bitterness: let them perish by the sword, let their little ones be dashed, and let the women with child be cut in sunder.\n"
+	"Convert o Israel to our Lord thy God: because thou art fallen in thine iniquity.\n"
+	"Take words with you, and convert to our Lord, and say to him: Take away all iniquity, and receive good: and we will render the calves of our lips.\n"
+	"Assur shall not save us, we will not mount upon horse: neither will we say any more: Our gods the work of our hands: because thou wilt have mercy on the pupil, which is in thee.\n"
+	"I will heal their confractions, I will love them voluntarily: because my fury is averted from them.\n"
+	"I will be as dew, Israel shall spring as the lily, and his root shall break forth as that of Libanus.\n"
+	"His boughs shall go, and his glory shall be as the olive-tree: and his smell as of Libanus.\n"
+	"They shall be converted that sit under his shadow: they shall live with wheat, and they shall spring as a vine: his memorial as the wine of Libanus.\n"
+	"Ephraim, what have I to do any more with idols? I will hear, and I will direct him as a verdant fir-tree: out of me thy fruit is found.\n"
+	"Who is wise, and shall understand these things? Of understanding, and shall know these things? Because the ways of our Lord be right, and the just shall walk in them: but prevaricators shall fall in them.";

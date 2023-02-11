@@ -1,0 +1,13 @@
+const char* chap997 = "Hear this word ye fat kine, which are in the mountains of Samaria: which do calumny to the needy, and break the poor: which say to your lords: Bring, and we will drink.\n"
+	"Our Lord God hath sworn by his holy, that lo the days shall come upon you, and they shall lift you upon poles, and your remnant in pots boiling hot.\n"
+	"And by the breaches you shall go out one against another, & you shall be cast forth into Armon, saith our Lord.\n"
+	"Come ye to Bethel, and do impiously: to Galgal, and multiply prevarication: and offer in the morning your victims, three days your tithes.\n"
+	"And sacrifice ye praise of the leavened: and call voluntary oblations, & proclaim it: for so would you, o children of Israel, saith our Lord God.\n"
+	"Whereupon I have given you dullness of the teeth in all your cities, & lack of bread in all your places: and you have not returned to me, saith our Lord.\n"
+	"I also have stayed the rain from you, when there remained yet three months unto harvest: and I rained upon one city, and upon another city I rained not: one part was rained upon, and the part whereupon I rained not, withered.\n"
+	"And two and three cities came to one city to drink water, & were not filled: & you returned not to me, saith our Lord.\n"
+	"I struck you with a burning wind, and with blasting, the multitude of your gardens, and all your vineyards: your olive groves, & fig-groves the eruke hath eaten: and you returned not to me, saith our Lord.\n"
+	"I sent death upon you in the way of Aegypt, I struck your young-men with the sword, even to the captivity of your horses: and I made the putrefaction of your camp to come up into your nostrils: and you returned not to me, saith our Lord.\n"
+	"I subverted you, as God subverted Sodom and Gomorth, and you were made as a fire-brand hastily caught from the burning: & you returned not to me, saith our Lord.\n"
+	"Wherefore these things will I do to thee Israel: but after I shall do these things to thee, be prepared to meet thy God o Israel.\n"
+	"Because lo he that formeth the mountains and createth the wind, and declareth his word to man, maketh the morning mist, and walketh upon the high places of the earth, our Lord the God of host is his name.";

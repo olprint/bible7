@@ -1,0 +1,13 @@
+const char* chap1009 = "Woe to you which think that is unprofitable, and work evil in your beds: in the morning light they do it, because their hand is against God.\n"
+	"And they have coveted fields, and violently taken, and houses forcibly taken away: and oppressed the man and his house, the man and his inheritance.\n"
+	"Therefore thus saith our Lord: Behold I purpose evil upon this family: whence you shall not take away your necks, and you shall not walk proud, because it is a very evil time.\n"
+	"In that day a parable shall be taken up upon you, and a song shall be sung with sweetness, of them that say: With depopulation we are wasted: part of my people is changed: how shall he depart from me, whereas he returneth, that will divide our regions?\n"
+	"For this cause thou shalt have none casting the cord of lot in the assembly of our Lord.\n"
+	"Speak ye not speaking: It shall not drop upon these, confusion shall not apprehend them.\n"
+	"The house of Jacob saith: Why is the spirit of our Lord abridged, or are his cogitations such? Are not my words good with him that walketh rightly?\n"
+	"And on the contrary my people is risen up as an adversary: from above the coat you have taken away the cloak: & them that passed simply, you turned into battle.\n"
+	"The women of my people you have cast out of the house of their delicacies: from their little ones you have taken my praise for ever.\n"
+	"Arise, and go, because you have no rest here. For the uncleanness thereof it shall be corrupted with a sore putrefaction.\n"
+	"Would God I were not a man having the spirit, and that I did rather speak a lie: I will distill to thee into wine, and into drunkenness: and it shall be this people upon whom it is distilled.\n"
+	"Gathering I will gather thee wholly together o Jacob: I will bring together the remnant of Israel into one, I will put them together as a flock in the fold, as cattle in the midst of sheepcotes, they shall make a tumult by reason of the multitude of men.\n"
+	"For he shall ascend opening the way before them: they shall divide, and pass through the gate, and shall enter by it: and their king shall pass before them, and our Lord in the head of them.";
