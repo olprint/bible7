@@ -2,19 +2,19 @@
 
 if ! test -d ./fltk; then tar -xf fltk-1.4.tar.gz; fi
 
-rm -f -- fltk/test/* -r
+rm -rf fltk/test/*
 echo bypass: > fltk/test/Makefile
 echo clean: >> fltk/test/Makefile
 
-rm -f -- fltk/fluid/* -r
+rm -rf fltk/fluid/*
 echo bypass: > fltk/fluid/Makefile
 echo clean: >> fltk/fluid/Makefile
 
-rm -f -- fltk/documentation/* -r
+rm -rf fltk/documentation/*
 echo bypass: > fltk/documentation/Makefile
 echo clean: >> fltk/documentation/Makefile
 
-rm -f -- fltk/examples/* -r
+rm -rf fltk/examples/*
 echo bypass: > fltk/examples/Makefile
 echo clean: >> fltk/examples/Makefile
 
@@ -38,15 +38,15 @@ rm FL -r
 
 echo '#' > Makefile
 echo 'all:' >> Makefile
-echo '	mkdir ./bin' >> Makefile
+echo '	mkdir -p ./bin' >> Makefile
 echo '	cd fltk && make' >> Makefile
 
 if [[ "$OSTYPE" == "msys" ]]; then
 	osType="win"
-	echo '	(g++ src/bible7.cpp src/process/process.cpp src/process/process_win.cpp src/utils.cpp src/bibleselector/VIdObj.cpp src/bibleselector/bibleselector.cpp -Wl,--out-implib  -Wl,-Bstatic -lfltk  -lfltk_images  -lfltk_forms  -lfltk_gl -lopengl32  -lwsock32  -lcomctl32  -lfltk_jpeg -lz -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -o ./bin/Bible7.exe ) && echo Done ' >> Makefile
+	echo '	(g++ src/bible7.cpp src/process/process.cpp src/process/process_win.cpp src/utils.cpp src/bibleselector/VIdObj.cpp src/bibleselector/bibleselector.cpp -Wl,--out-implib  -Wl,-Bstatic -Ifltk -Lfltk/lib -lfltk  -lfltk_images  -lfltk_forms  -lfltk_gl -lopengl32  -lwsock32  -lcomctl32  -lfltk_jpeg -lz -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -o ./bin/Bible7.exe ) && echo Done ' >> Makefile
 else
 	osType="linux"
-	echo '	(g++ src/bible7.cpp src/process/process.cpp src/process/process_unix.cpp src/utils.cpp src/bibleselector/VIdObj.cpp src/bibleselector/bibleselector.cpp -Bstatic -Wall -Ifltk -Llib -Ifltk -Llib  -lpng -lfltk -lfltk_images -lfltk_jpeg -lz -lX11 -lXfixes -lXext -ldl -lXrender -lXft -lfontconfig -lpthread -lm -lc -Wl,--as-needed -o ./bin/Bible7) && echo Done ' >> Makefile
+	echo '	(g++ src/bible7.cpp src/process/process.cpp src/process/process_unix.cpp src/utils.cpp src/bibleselector/VIdObj.cpp src/bibleselector/bibleselector.cpp  -Wall -Ifltk -Lfltk/lib -lpng -lfltk -lfltk_images -lfltk_jpeg -lz -lX11 -lXfixes -lXext -ldl -lXrender -lXft -lfontconfig -lpthread -lm -lc -Wl,--as-needed -o ./bin/Bible7) && echo Done ' >> Makefile
 fi
 
 echo 'clean:' >> Makefile
