@@ -1,5 +1,6 @@
 #!/bin/bash
 
+if ! test -d ./fltk; then tar -xf fltk-1.4.tar.gz; fi
 
 rm -f -- fltk/test/* -r
 echo bypass: > fltk/test/Makefile
@@ -17,11 +18,10 @@ rm -f -- fltk/examples/* -r
 echo bypass: > fltk/examples/Makefile
 echo clean: >> fltk/examples/Makefile
 
-
 ./fltk/configure
 
 for name in *; do
-	if [ "$name" != "Makefile" ] && [ "$name" != "fltk" ] && [ "$name" != "src" ] && [ "$name" != "configure" ] && [ "$name" != "FL" ] ; then
+	if [ "$name" != "Makefile" ] && [ "$name" != "fltk-1.4.tar.gz" ] && [ "$name" != "fltk" ] && [ "$name" != "src" ] && [ "$name" != "configure" ] && [ "$name" != "FL" ] ; then
 		if [[ -d $name ]]; then
 			mv "$name" "fltk/$name"
 		elif [[ -f $name ]]; then
@@ -51,6 +51,7 @@ fi
 
 echo 'clean:' >> Makefile
 echo '	cd fltk && make clean' >> Makefile
+echo '	if test -d ./fltk; then rm ./fltk -r; fi' >> Makefile
 echo '	if test -d ./bin; then rm ./bin -r; fi' >> Makefile
 
 exit 0
