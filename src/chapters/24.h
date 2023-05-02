@@ -10,7 +10,7 @@ const char* chap24 = "And Abraham was old, and of many days, and our Lord had bl
 	"And he took ten camels of his lord's herd, and departed, of all his goods carrying something with him, and setting forward went on into Mesopotamia to the city of Nachor.\n"
 	"And when he had made the camels lie down without the town beside a well of water at even, at the time when women are wont to come forth to draw water, he said:\n"
 	"O Lord God of my lord Abraham, meet me today, I beseech thee, and do mercifully with my master Abraham.\n"
-	"Behold I stand night to the fountain of water and the daughters of the inhabiters of this city will come forth to draw water.\n"
+	"Behold I stand nigh to the fountain of water and the daughters of the inhabiters of this city will come forth to draw water.\n"
 	"Therefore the maid, to whom I shall say: Bow down thy tankard that I may drink; and she shall answer: Drink, yea to thy camels also will I give drink; she it is, whom thou hast provided for thy servant Isaac: and by this I shall understand, that thou hast dealt mercifully with my master.\n"
 	"Neither had he yet ended these words within himself, & behold Rebecca came forth, the daughter of Bathuel, the son of Melcha, wife to Nachor the brother of Abraham, having a tankard on her shoulder;\n"
 	"a passing comely maid, & most beautiful virgin, & not known to man: and she was gone down to the fountain, and had filled her tankard, and came back.\n"
