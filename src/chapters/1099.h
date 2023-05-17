@@ -12,7 +12,7 @@ const char* chap1099 = "THEN shall the Kingdom of Heaven be like to ten virgins,
 	"But he answering said: Amen I say to you, I know you not.\n"
 	"Watch ye therefore, because you know not the day nor the hour.\n"
 	"For even as a man going into a strange country, called his servants, and delivered them his goods.\n"
-	"And to one he gave five talents, and to another two, and to another one, to every one According to his proper faculty: and immediately he took his journey.\n"
+	"And to one he gave five talents, and to another two, and to another one, to every one according to his proper faculty: and immediately he took his journey.\n"
 	"And he that had received the five talents, went his way, and occupied with the same, and gained other five.\n"
 	"Likewise also he that had received the two, gained other two.\n"
 	"But he that had received the one, going his way digged into the earth, and hid his lord's money.\n"

@@ -7,7 +7,7 @@ const char* chap1167 = "AND when they were speaking to the people, the Priests a
 	"And setting them in the midst, they asked: In what power or in what name have you done this?\n"
 	"Then Peter replenished with the Holy Ghost, said to them: Ye princes of the people and Ancients:\n"
 	"If we^ this day be examined for a good deed upon an impotent man, in what he hath been made whole,\n"
-	"be it known to all you and to all the people of Israel, that in the name of JESUS CHRIST of Nazareth, whom you did crucify, whom God hath raised from the dead, in this same this man standeth before you^ whole.\n"
+	"be it known to all you and to all the people of Israel, that in the name of JESUS CHRIST of Nazareth, whom you did crucify, whom God hath raised from the dead, in this same this man standeth before you whole.\n"
 	"This is the stone that was rejected of you the builders: which is made into the head of the corner:\n"
 	"and there is not salvation in any other. For neither is there any other name under Heaven given to men, wherein we must be saved.\n"
 	"And seeing Peter's constancy and John's, understanding that they were men unlettered, and of the vulgar sort, they marveled; and they knew them that they had been with JESUS:\n"

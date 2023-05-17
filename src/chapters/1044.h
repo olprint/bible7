@@ -61,7 +61,7 @@ const char* chap1044 = "And it came to pass, after that Alexander Philip's son t
 	"In their power did they these things to the people of Israel that was found^ in every month & month in the cities:\n"
 	"And the five and twentieth day of the month they sacrificed upon the altar that was against the altar.\n"
 	"And the women that circumcised their children, were murdered according to the commandment of king Antiochus,\n"
-	"and they hang up the children by the necks through out all their houses, and those that had circumcised them, they murdered.\n"
+	"and they hang up the children by the necks throughout all their houses, and those that had circumcised them, they murdered.\n"
 	"And many of the people of Israel determined with themselves, that they would not eat the unclean things: and they chose rather to die, than to be defiled with unclean meats:\n"
 	"and they would not break the holy law of God, and they were murdered,\n"
 	"and there was made great wrath upon the people exceedingly.";

@@ -27,7 +27,7 @@ const char* chap42 = "And Jacob hearing that victuals were sold in Aegypt, he sa
 	"And one of them opening his sack to give his beast provender in the Inn, beholding the money in the sack's mouth,\n"
 	"he said to his brethren: My money is given me again, behold it is in the sack. And being astonished and troubled amongst themselves, they said: What is this, that God hath done unto us?\n"
 	"And they came to Jacob their father into the land of Chanaan, & they told him all things that had chanced unto them, saying:\n"
-	"The Lord of the land spake to us roughly, & thought us to be spies of the province,\n"
+	"The lord of the land spake to us roughly, & thought us to be spies of the province,\n"
 	"to whom we answered: We are men of peace, neither do we attempt any treachery.\n"
 	"We are twelve brethren born of one father: one is not living, the youngest is with our father in the Land of Chanaan.\n"
 	"Who said to us: Thus shall I try that you be men of peace: Leave one of your brethren with me, and take ye provision necessary for your houses, and go your ways,\n"

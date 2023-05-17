@@ -1,7 +1,7 @@
 const char* chap1261 = "AND of the times and moments, brethren, you need not that we write to you.\n"
 	"For yourselves know perfectly that the day of our Lord shall so come, as a thief in the night.\n"
 	"For when they shall say, peace & security; then shall sudden destruction come upon them, as the pains to her that is with child, and they shall not escape.\n"
-	"But you brethren are not in darkness; that the same day may as a thief over-take you.\n"
+	"But you, brethren, are not in darkness; that the same day may as a thief over-take you.\n"
 	"For all you are the children of light, and children of the day: we are not of the night nor of darkness.\n"
 	"Therefore let us not sleep as also others: but let us watch & be sober.\n"
 	"For they that sleep, sleep in the night; & they that be drunk, be drunk in the night.\n"

@@ -25,7 +25,7 @@ const char* chap1184 = "AND when it came to pass that we sailed, being carried f
 	"But concerning them that believe of the Gentiles, we have written, decreeing that they should refrain themselves from the immolated to idols, and blood, and suffocated, and fornication.\n"
 	"Then Paul taking the men unto him, the next day being purified with them entered into the temple, shewing the accomplishment of the days of the purification, until an oblation was offered for every one of them.\n"
 	"But whiles the seven days were a finishing, those Jews that were of Asia, when they had seen him in the temple, stirred up all the people, and laid hands upon him,\n"
-	"crying: Ye men of Israel, help: this is the man that against the people and the Law and this place teaching all men every where, hath also moreover brought in Gentiles into the temple, and hath violated this holy place.\n"
+	"crying: Ye men of Israel, help: this is the man that against the people and the Law and this place teaching all men every-where, hath also moreover brought in Gentiles into the temple, and hath violated this holy place.\n"
 	"(For they had seen Trophimus the Ephesian in the city with him, whom they supposed that Paul had brought into the temple.)\n"
 	"And the whole city was in an uproar: and there was made a concourse of the people. And apprehending Paul, they drew him forth of the temple: and immediately the doors were shut.\n"
 	"And as they sought to kill him, it was told the Tribune of the band, That all Jerusalem is in a confusion.\n"
@@ -34,7 +34,7 @@ const char* chap1184 = "AND when it came to pass that we sailed, being carried f
 	"And some cried one thing, some another, in the multitude. And whereas he could not know the certainty for the tumult, he commanded him to be led into the castle.\n"
 	"And when he was come to the stairs, it chanced that he was carried of the soldiers because of the violence of the people.\n"
 	"For the multitude of the people followed, crying: Away with him.\n"
-	"And when Paul began to be brought into the castle, he saith to the Tribune: is it lawful for me to speak some thing to thee? Who said: Canst thou speak Greek?\n"
+	"And when Paul began to be brought into the castle, he saith to the Tribune: is it lawful for me to speak something to thee? Who said: Canst thou speak Greek?\n"
 	"Art not thou the Aegyptian that before these days did raise a tumult, and didst lead forth into the desert four thousand men that were murderers?\n"
 	"And Paul said to him: I am a man truly a Jew of Tarsus, a citizen not of an obscure city of Cilicia. And I desire thee, permit me to speak to the people.\n"
-	"And when he had permitted him, Paul standing on the stayers, beckoned with his hand to the people. And great silence being made, he spake unto them in the Hebrew tongue, saying.";
+	"And when he had permitted him, Paul standing on the stairs, beckoned with his hand to the people. And great silence being made, he spake unto them in the Hebrew tongue, saying.";

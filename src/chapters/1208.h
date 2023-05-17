@@ -23,7 +23,7 @@ const char* chap1208 = "PAUL called to be an Apostle of JESUS Christ, by the wil
 	"but we preach Christ crucified, to the Jews certes a scandal, and to the Gentiles, foolishness:\n"
 	"but to the called^ Jews & Greeks, Christ the power of God and the wisdom of God.\n"
 	"For that which is the foolish of God, is wiser than men; and that which is the infirm of God, is stronger than men.\n"
-	"For see your vocation brethren, that not many wise according to the flesh, not many mighty, not many noble:\n"
+	"For see your vocation, brethren, that not many wise according to the flesh, not many mighty, not many noble:\n"
 	"but the foolish things of the world hath God chosen, that he may confound the wise; and the weak things of the world hath God chosen, that he may confound the strong:\n"
 	"and the base things of the world and the contemptible hath God chosen, and those things which are not, that he might destroy those things which are;\n"
 	"that no flesh may glory in his sight.\n"

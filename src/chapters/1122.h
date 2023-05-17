@@ -11,7 +11,7 @@ const char* chap1122 = "AND JESUS full of the Holy Ghost, returned from Jordan, 
 	"and that in their hands they shall bear thee up, lest perhaps thou knock thy foot against a stone.\n"
 	"And JESUS answering said to him: It is said, Thou shalt not tempt the Lord thy God.\n"
 	"And all the tentation being ended, the devil departed from him until a time.\n"
-	"And JESUS returned in the force of the spirit into Galilee, and the same went forth through the whole country of him.\n"
+	"And JESUS returned in the force of the spirit into Galilee, and the fame went forth through the whole country of him.\n"
 	"And he taught in their Synagogues, and was magnified of all.\n"
 	"And he came to Nazareth where he was brought up: and he entered according to his custom on the Sabboth day into the Synagogue; and he rose up to read.\n"
 	"And the book of Esay the Prophet was delivered unto him. And as he unfolded the book, he found the place where it was written:\n"

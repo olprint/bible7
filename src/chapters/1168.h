@@ -33,7 +33,7 @@ const char* chap1168 = "BUT a certain man named Ananias, with Saphira his wife s
 	"When they had heard these things, it cut them to the heart, and they consulted to kill them.\n"
 	"But one in the Council rising up, a Pharisee named Gamaliel, a Doctor of law honourable to all the people, commanded the men to be put forth a while.\n"
 	"and he said to them: Ye men of Israel, take heed to yourselves touching these men what you mean to do.\n"
-	"For before these days there rose Theodas, saying he was some body, to whom consented a number of men about four hundred, who was slain: and all that believed him, were dispersed, and brought to nothing.\n"
+	"For before these days there rose Theodas, saying he was somebody, to whom consented a number of men about four hundred, who was slain: and all that believed him, were dispersed, and brought to nothing.\n"
 	"After this fellow there rose Judas of Galilee in the days of the Enrolling, and drew away the people after him, and he perished: and as many as ever consented to him, were dispersed.\n"
 	"And now therefore I say to you, depart from these men and let them alone: for if this counsel or work be of men, it will be dissolved:\n"
 	"but if it be of God, you are not able to dissolve them, lest perhaps you be found to resist God also. And they consented to him.\n"

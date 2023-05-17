@@ -23,7 +23,7 @@ const char* chap118 = "And our Lord spake to Moyses in the desert of Sinai in th
 	"fifty nine thousand three hundred.\n"
 	"Of the sons of Gad, by the generations and families and houses of their kindreds were reckoned by the names of every one from twenty years and upward, all that went forth to war,\n"
 	"forty five thousand six hundred fifty.\n"
-	"Of the sons to Juda by the generations and families and houses of their kindreds, by the names of every one from the twentieth year and upward, all that could go forth to war,\n"
+	"Of the sons of Juda by the generations and families and houses of their kindreds, by the names of every one from the twentieth year and upward, all that could go forth to war,\n"
 	"were reckoned seventy four thousand six hundred.\n"
 	"Of the sons of Issachar, by the generations and families and houses of their kindreds, by the names of every one from the twentieth year & upward, all that went forth to war,\n"
 	"were reckoned fifty four thousand four hundred.\n"

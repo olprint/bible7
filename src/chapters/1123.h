@@ -11,7 +11,7 @@ const char* chap1123 = "AND it came to pass, when the multitudes pressed upon hi
 	"And having brought their ships to land, leaving all things they followed him.\n"
 	"And it came to pass, when he was in one of the cities, & behold a man full of leprosy, and seeing JESUS, and falling on his face, besought him saying: Lord, if thou wilt, thou canst make me clean.\n"
 	"And stretching forth the hand, he touched him, saying: I will. Be thou made clean. And immediately the leprosy departed from him.\n"
-	"And he commanded him that he should tell no body, but, Go, shew thyself to the Priest, and offer for thy cleansing as Moyses commanded, for a testimony to them.\n"
+	"And he commanded him that he should tell nobody, but, Go, shew thyself to the Priest, and offer for thy cleansing as Moyses commanded, for a testimony to them.\n"
 	"But the bruit of him went abroad the more, and great multitudes came together to hear, and to be cured of their infirmities.\n"
 	"And he retired into the desert, and prayed.\n"
 	"And it came to pass one day, and he sat teaching. And there were Pharisees sitting and Doctors of Law that were come out of every town of Galilee and Jewry and Jerusalem; and the virtue of our Lord was to heal them.\n"
@@ -34,6 +34,6 @@ const char* chap1123 = "AND it came to pass, when the multitudes pressed upon hi
 	"To whom he said: Why, can you make the children of the bridegroom fast whiles the bridegroom is with them?\n"
 	"But the days will come; and when the bridegroom shall be taken away from them, then they shall fast in those days.\n"
 	"And he said a similitude also unto them: That no man putteth a piece from a new garment into an old garment; otherwise both he breaketh the new, and the piece from the new agreeth not with the old.\n"
-	"And no body putteth new wine into old bottles; otherwise the new wine will break the bottles, and itself will be shed, and the bottles will be lost.\n"
+	"And nobody putteth new wine into old bottles; otherwise the new wine will break the bottles, and itself will be shed, and the bottles will be lost.\n"
 	"But new wine is to be put into new bottles: and both are preserved together.\n"
 	"And no man drinking old, will new by and by, for he saith, The old is better.";

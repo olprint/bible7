@@ -1,7 +1,7 @@
 const char* chap91 = "And our Lord called Moyses, and spake to him out of the tabernacle of testimony, saying:\n"
 	"Speak to the children of Israel, & thou shalt say to them: The man of you, that shall offer an host to our Lord, of beasts, that is of oxen & sheep, offering victims,\n"
 	"if his oblation be an holocaust, and of the herd, he shall offer a male, without spot, at the door of the tabernacle of testimony, to propitiate our Lord unto him:\n"
-	"and he shall put his hands upon the head of the host, and is shall be acceptable, and profitable to his expiation.\n"
+	"and he shall put his hands upon the head of the host, and it shall be acceptable, and profitable to his expiation.\n"
 	"And he shall immolate the calf before our Lord, and the children of Aaron the Priests shall offer the blood thereof, pouring it in the circuit of the altar, which is before the door of the tabernacle.\n"
 	"And the skin of the host being plucked off, the joints they shall cut into pieces,\n"
 	"and shall put fire underneath in the altar, having before laid a pile of wood in order:\n"

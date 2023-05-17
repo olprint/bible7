@@ -17,7 +17,7 @@ const char* chap1090 = "AND there came to him the Pharisees and Sadducees tempti
 	"And JESUS answering, said to him: Blessed art thou Simon Bar-Jona: because flesh & blood hath not revealed it to thee, but my Father which is in Heaven.\n"
 	"And I say to thee: That thou art Peter; and upon this Rock will I build my Church, and the gates of Hell shall not prevail against it.\n"
 	"And I will give to thee the keys of the Kingdom of Heaven. And whatsoever thou shalt bind upon earth, it shall be bound also in the Heavens: and whatsoever thou shalt loose in earth, it shall be loosed also in the Heavens.\n"
-	"Then he commanded his Disciples, that they should tell no body that he was JESUS CHRIST.\n"
+	"Then he commanded his Disciples, that they should tell nobody that he was JESUS CHRIST.\n"
 	"From that time JESUS began to shew his Disciples, that he must go to Jerusalem, & suffer many things of the Ancients & Scribes and Chief-Priests, and be killed, and the third day rise again.\n"
 	"And Peter taking him unto him, began to rebuke him, saying: Lord, be it far from thee, this shall not be unto thee.\n"
 	"Who turning said to Peter: Go after me Satan, thou art a scandal unto me: because thou savourest not the things that are of God, but the things that are of men.\n"

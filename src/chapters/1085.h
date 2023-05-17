@@ -5,7 +5,7 @@ const char* chap1085 = "AND it came to pass: when JESUS had done commanding his 
 	"The blind see, the lame walk, the lepers are made clean, the deaf hear, the dead rise again, to the poor the Gospel is preached.\n"
 	"and blessed is he that shall not be scandalized in me.\n"
 	"And when they went their way, JESUS began to say to the multitudes^ of John: What went you out into the desert to see? a reed shaken with the wind?\n"
-	"But what went you out to see? A man clothed in soft garments? Behold they that are clothed in soft garments, are in king's houses.\n"
+	"But what went you out to see? A man clothed in soft garments? Behold they that are clothed in soft garments, are in kings' houses.\n"
 	"But what went you out to see? A Prophet? Yea I tell you and more than a Prophet.\n"
 	"For this is he of whom it is written: Behold I send mine Angel before thy face, which shall prepare thy way before thee.\n"
 	"Amen I say to you, there hath not risen among the born of women a greater than John the Baptist: yet he that is the lesser in the Kingdom of Heaven, is greater than he.\n"

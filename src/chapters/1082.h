@@ -1,7 +1,7 @@
 const char* chap1082 = "AND when he was come down from the mountain, great multitudes followed him:\n"
 	"And behold a Leper came and adored him saying: Lord, if thou wilt, thou canst make me clean.\n"
 	"And JESUS stretching forth his hand, touched him, saying: I will. Be thou made clean. And forthwith, his leprosy was made clean.\n"
-	"And JESUS saith to him: See thou tell no body: but go, shew thyself to the Priest, and offer the gift which Moyses commanded for a testimony to them.\n"
+	"And JESUS saith to him: See thou tell nobody: but go, shew thyself to the Priest, and offer the gift which Moyses commanded for a testimony to them.\n"
 	"And when he was entered into Capharnaum, there came to him a Centurion, beseeching him,\n"
 	"and saying: Lord my boy lieth at home sick of the palsy, and is sore tormented.\n"
 	"And JESUS saith to him: I will come, and cure him.\n"

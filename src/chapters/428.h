@@ -8,7 +8,7 @@ const char* chap428 = "But after these things, when there was a festival day of 
 	"And all his neighbours rebuked him, saying: Even now thou wast commanded to be slain because of this matter, and thou didst scarce escape the commandment of death, and doest thou bury the dead again?\n"
 	"But Tobias more fearing God than the king, in haste took the bodies of them that were slain, and hid them in his house, & at midnight buried them.\n"
 	"And it happened that on a certain day, being wearied with burying, coming into his house he had cast himself down by the wall, and slept,\n"
-	"and as he was sleeping, hot dung out of the swallows nest fell upon his eyes, and he was made blind.\n"
+	"and as he was sleeping, hot dung out of the swallows' nest fell upon his eyes, and he was made blind.\n"
 	"And this tentation therefore our Lord permitted to chance unto him, that an example might be given to posterity of his patience, as also of holy Job.\n"
 	"For whereas he feared God always from his infancy, and kept his commandments, he grudged not against God for that the plague of blindness had chanced to him,\n"
 	"but continued immovable in the fear of God, giving thanks to God all the days of his life.\n"

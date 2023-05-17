@@ -13,7 +13,7 @@ const char* chap1083 = "AND entering into a boat, he passed over the water, and 
 	"But go your ways & learn what it is, I will mercy, & not sacrifice. For I am not come to call the just, but sinners.\n"
 	"Then came to him the Disciples of John, saying: Why do we and the Pharisees fast often, but thy Disciples do not fast?\n"
 	"And JESUS said to them: Can the children of the Bridegroom mourn, as long as the Bridegroom is with them? But the days will come when the Bridegroom shall be taken away from them, and then they shall fast.\n"
-	"And no body putteth a piece of raw cloth to an old garment. For he taketh away the piecing thereof from the garment, and there is made a greater rent.\n"
+	"And nobody putteth a piece of raw cloth to an old garment. For he taketh away the piecing thereof from the garment, and there is made a greater rent.\n"
 	"Neither do they put new wine into old bottles. Otherwise the bottles break, and the wine runneth out, and the bottles perish. But new wine they put into new bottles: and both are preserved together.\n"
 	"As he was speaking this unto them, behold a certain Governor approached, and adored him, saying: Lord, my daughter is even now dead; but come, lay thy hand upon her, and she shall live.\n"
 	"And JESUS rising up followed him, and his Disciples.\n"

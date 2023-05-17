@@ -2,7 +2,7 @@ const char* chap10 = "These are the generations of the sons of Noe, Sem, Cham, a
 	"The children of Japheth: Gomer, & Magog, & Madai, & Javan, & Tubal, and Mosoch, and Thiras.\n"
 	"Moreover the children of Gomer: Ascenez, and Riphath, and Thogorma.\n"
 	"And the sons of Javan: Elisa, and Tharsis, the Cetims and the Dodanims.\n"
-	"Of these were divided the Isles of Nations in their countries, each one according to his tong, & their families in their nations.\n"
+	"Of these were divided the Isles of Nations in their countries, each one according to his tongue, & their families in their nations.\n"
 	"And the sons of Cham: Chus, & Mesraim, & Phut, and Chanaan.\n"
 	"And the sons of Chus: Saba, Hevila, and Sabatha, & Regma, & Sabathaca. The sons of Regma: Saba, and Dadan.\n"
 	"Moreover Chus begat Nemrod: he began to be mighty in the earth.\n"
@@ -29,4 +29,4 @@ const char* chap10 = "These are the generations of the sons of Noe, Sem, Cham, a
 	"and Ophir, and Hevila, and Jobab. All these were the children of Jectan.\n"
 	"And their dwelling was from Messa as we go on as far as Sephar a mountain in the east.\n"
 	"These are the children of Sem according to their kindred, and tongues, and countries in their nations.\n"
-	"These are the families of Noe, according to their peoples and nation. Of these were the nations divided on the earth after the flood.";
+	"These are the families of Noe, according to their peoples and nations. Of these were the nations divided on the earth after the flood.";

@@ -20,7 +20,7 @@ const char* chap1183 = "AND after that the tumult was ceased, Paul calling the D
 	"How I have withdrawn nothing that was profitable, but that I preached it to you, and taught you openly and from house to house,\n"
 	"testifying to Jews and Gentiles penance toward God, and faith in our Lord JESUS CHRIST.\n"
 	"And now behold, being bound by the spirit, I go to Jerusalem; not knowing what things shall befall me in it,\n"
-	"but that the Holy Ghost through out all cities doth protest to me, saying: that bands and tribulations abide me at Jerusalem.\n"
+	"but that the Holy Ghost throughout all cities doth protest to me, saying: that bands and tribulations abide me at Jerusalem.\n"
 	"But I fear none of these things, neither do I make my life more precious than myself, so that I may consummate my course & ministry which I received of our Lord JESUS, to testify the Gospel of the grace of God.\n"
 	"And now behold I do know, that you shall no more see my face all you, through whom I have passed preaching the Kingdom of God.\n"
 	"Wherefore I take you to witness this present day that I am clear from the blood of all.\n"

@@ -1,6 +1,6 @@
 const char* chap1286 = "BUT the sum concerning those things which be said, is: We have such an high Priest, who is set on the right hand of the seat of majesty in the heavens.\n"
 	"A Minister of the Holies, and of the true tabernacle, which our Lord pight and not man.\n"
-	"For every high priest is appointed to offer gifts and hosts, wherefore it is necessary that he also have some thing that he may offer:\n"
+	"For every high priest is appointed to offer gifts and hosts, wherefore it is necessary that he also have something that he may offer:\n"
 	"if then he were upon the earth, neither were he a priest: whereas there were that did offer gifts according to the Law,\n"
 	"that serve the exampler and shadow of heavenly things. As it was answered Moyses, when he finished the tabernacle, See (quoth he) that thou make all things according to the exampler which was shewed thee in the mount.\n"
 	"But now he hath obtained a better ministry, by so much as he is Mediator of a better testament, which is established in better promises.\n"

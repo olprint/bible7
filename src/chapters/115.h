@@ -49,7 +49,7 @@ const char* chap115 = "And our Lord spake to Moyses in the mount Sinai, saying:\
 	"both the uncle by father, and the uncle's son, and the kinsman, and the allied. But and if himself be able also, he shall redeem himself,\n"
 	"accounting only the years from the time of his selling unto the year of Jubilee: and accounting the money, that he was sold for, according to the number of the years and the reckoning of an hireling.\n"
 	"If they be more years that remain until the Jubilee, according to these also shall he repay the price.\n"
-	"If few he shall make the reckoning with him according to the number of the years, and shall repay to the buyer for that which remaineth of the years,\n"
+	"If few, he shall make the reckoning with him according to the number of the years, and shall repay to the buyer for that which remaineth of the years,\n"
 	"his wages being allowed for the which he served before: he shall not afflict him violently in thy sight.\n"
 	"And if by these means he cannot be redeemed, in the year of Jubilee he shall go out with his children.\n"
 	"For the children of Israel are my servants, whom I brought forth out of the Land of Aegypt.";

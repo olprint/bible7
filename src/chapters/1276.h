@@ -3,7 +3,7 @@ const char* chap1276 = "BUT do thou speak the things that become sound doctrine.
 	"Old women in like manner, in holy attire, not ill speakers, not given to much wine: teaching well,\n"
 	"that they may teach the young women wisdom, to love their husbands, to love their children,\n"
 	"wise, chaste, sober, having a care of the house, gentle, subject to their husbands, that the word of God be not blasphemed.\n"
-	"Yong men in like manner exhort that they be sober.\n"
+	"Young men in like manner exhort that they be sober.\n"
 	"In all things shew thyself an example of good works, in doctrine, in integrity, in gravity,\n"
 	"the word sound, irreprehensible: that he which is on the contrary part, may be afraid, having no evil to say of us.\n"
 	"Servants to be subject to their masters, in all things pleasing, not gainsaying:\n"

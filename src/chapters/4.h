@@ -4,7 +4,7 @@ const char* chap4 = "And Adam knew Eve his wife, who conceived and brought forth
 	"Abel also offered of the first-begotten of his flock, and of their fat: and our Lord had respect of Abel, & to his gifts.\n"
 	"But to Cain, and to his gifts he had not respect: And Cain was exceeding angry, and his countenance abated.\n"
 	"And our Lord said to him: Why art thou angry? and why is thy countenance fallen?\n"
-	"If thou do well, shall thou not receive again: but if thou dost ill, shall not thy sin forthwith be present at the door? But the lust thereof shall be under thee, and thou shalt have dominion over it.\n"
+	"If thou do well, shall thou not receive again: but if thou doest ill, shall not thy sin forthwith be present at the door? But the lust thereof shall be under thee, and thou shalt have dominion over it.\n"
 	"And Cain said to Abel his brother: Let us go forth abroad. And when they were in the field, Cain rose up against his brother Abel, and slew him.\n"
 	"And our Lord said to Cain: Where is Abel thy brother? Who answered: I know not, am I my brother's keeper?\n"
 	"And he said to him: what hast thou done? The voice of thy brother's blood cryeth to me out of the earth.\n"

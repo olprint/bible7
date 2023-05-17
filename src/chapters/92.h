@@ -9,7 +9,7 @@ const char* chap92 = "When a soul shall offer an oblation of sacrifice to our Lo
 	"Who having offered it shall take a memory of the sacrifice, and burn it upon the altar for a sweet savour to our Lord,\n"
 	"and whatsoever is left, shall be Aaron's, and his sons, Holy of holies among the oblations of our Lord.\n"
 	"Every oblation that is offered to our Lord, shall be made without leaven, neither shall any leaven and honey be burned in the sacrifice of our Lord.\n"
-	"The first fruits only of them and the gifts you shall offer but upon the altar they shall not be put, for a savour of sweetness.\n"
+	"The first fruits only of them and the gifts you shall offer: but upon the altar they shall not be put, for a savour of sweetness.\n"
 	"What sacrifice soever thou offerest, thou shalt season it with salt, neither shalt thou take away the salt of the covenant of thy God from thy sacrifice. In every oblation thou shalt offer salt.\n"
 	"But if thou offer a gift of the first fruits of thy corn to our Lord, of the ears being yet green, thou shalt dry it at the fire, and bruise it in manner of meal, and so shalt thou offer thy first fruits to our Lord,\n"
 	"pouring oil upon it, and putting on frankincense, because it is the oblation of our Lord.\n"

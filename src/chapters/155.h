@@ -8,7 +8,7 @@ const char* chap155 = "And departing thence we came into the wilderness, that le
 	"And when we had passed by our brethren the children of Esau, that dwelt in Seir, by the champion way from Elath and from Asiongaber, we came to the way, that leadeth into the desert of Moab.\n"
 	"And our Lord said to me: Fight not against the Moabites, neither make battle against them: for I will not give thee any of their land, because I have given Ar to the children of Lot in possession.\n"
 	"Emim first were the inhabiters thereof, a great people, and valiant, and so tall that they were thought,\n"
-	"as it were giants, of the Enacims stock, and were like the children of the Enacims. Moreover the Moabites call them Emim.\n"
+	"as it were giants, of the Enacims' stock, and were like the children of the Enacims. Moreover the Moabites call them Emim.\n"
 	"But in Seir before dwelt the Horrins: who being expelled and destroyed, the children of Esau did inhabit it, as Israel did in the land of his possession, which our Lord gave him.\n"
 	"Rising up therefore to pass the Torrent Zared, we came to it.\n"
 	"And the time, that we walked from Cadesbarne unto the passage of the torrent Zared, was thirty and eight years: until all the generation of the men that were warriors was consumed out of the camp, as our Lord had sworn:\n"

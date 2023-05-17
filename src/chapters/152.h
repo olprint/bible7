@@ -19,7 +19,7 @@ const char* chap152 = "These things also spake our Lord to Moyses in the champio
 	"The kinsman of him that is slain, shall kill the murderer, as soon as he apprehendeth him, he shall kill him.\n"
 	"If through hatred one push a man, or cast any thing at him by stratagem,\n"
 	"or being his enemy, strike him with his hand, and he die: the striker shall be guilty of murder. The kinsman of him that is slain as soon as he findeth him, shall kill him.\n"
-	"But if by chance-medley and without hatred\n"
+	"But if by chance-medley, and without hatred,\n"
 	"and enmity, he do any of these things,\n"
 	"and this be proved in the hearing of the people, and the question debated between him that struck, and the next of blood:\n"
 	"the innocent shall be delivered from the hand of the revenger, & by sentence shall be brought back into the city, to which he had fled, and he shall tarry there, until the High-priest, that is anointed with the holy oil, do die.\n"

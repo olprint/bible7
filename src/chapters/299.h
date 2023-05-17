@@ -39,7 +39,7 @@ const char* chap299 = "Then were gathered together all the ancients of Israel wi
 	"thou shalt hear in heaven, in the place of thy habitation, and shalt be merciful again, and shalt so do that thou give to every one according to his ways, as thou shalt see his heart (for thou only knowest the heart of all the children of men)\n"
 	"that they fear thee all the days, which they live upon the face of the land, which thou hast given our fathers.\n"
 	"Moreover also the stranger, which is not of thy people Israel, when he shall come from a far country for thy name (for thy great name shall be heard of, and thy strong hand,\n"
-	"and thy stretched out arm every where) when therefore he shall come, and shall pray in this place,\n"
+	"and thy stretched out arm every-where) when therefore he shall come, and shall pray in this place,\n"
 	"thou shalt hear in heaven, in the firmament of thy habitation, & thou shalt do all things, for the which the stranger shall invocate thee: that all the peoples of the earth may learn to fear thy name, as thy people Israel, and may prove that thy name is invocated upon this house, which I have built.\n"
 	"If thy people shall go forth to war against their enemies, by the way, whithersoever thou shalt send them, they shall pray to thee against the way of the city, which thou hast chosen, and against the house, which I have built to thy name,\n"
 	"and thou shall hear in heaven their prayers, and their petitions, and shall do judgment for them.\n"

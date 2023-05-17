@@ -14,7 +14,7 @@ const char* chap1115 = "AND when he went out of the Temple, one of his Disciples
 	"And when you shall see the abomination of desolation, standing where it ought not (he that readeth, let him understand) then they that are in Jewry, let them flee unto the mountains:\n"
 	"and he that is on the house-top, let him not go down into the house, nor enter in^ to take any thing out of his house:\n"
 	"and he that shall be in the field, let him not return back to take his garment.\n"
-	"And woe to them that are with-child and that give suck in those days.\n"
+	"And woe to them that are with child and that give suck in those days.\n"
 	"But pray that the things chance not in the winter.\n"
 	"For those days shall be such tribulations as were not from the beginning of the creation that God created until now, neither shall be.\n"
 	"And unless the Lord had shortened the days, no flesh should be saved: but for the elect which he hath elected, he hath shortened the days.\n"

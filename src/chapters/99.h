@@ -1,6 +1,6 @@
 const char* chap99 = "And when the eighth day was come, Moyses called Aaron and his sons, and the ancients of Israel, and said to Aaron.\n"
 	"Take of the herd a calf for sin, and a ram for an holocaust, both without spot, and offer them before our Lord.\n"
-	"And to the children of Israel thou shalt speak: Take ye buck goat for sin, and a calf, and a lamb, of a year old, & without spot for an holocaust,\n"
+	"And to the children of Israel thou shalt speak: Take ye a buck goat for sin, and a calf, and a lamb, of a year old, & without spot for an holocaust,\n"
 	"an ox and a ram for pacifics: and immolate them before our Lord, offering in the sacrifice of every one flour tempered with oil; for today our Lord will appear to you.\n"
 	"They took therefore all things that Moyses had commanded before the door of the tabernacle: where when all the multitude stood,\n"
 	"Moyses said: This is the word, which our Lord hath commanded: do it, and his glory will appear to you.\n"

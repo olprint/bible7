@@ -5,7 +5,7 @@ const char* chap1303 = "BUT there were also false-prophets in the people, as als
 	"and he spared not the original world, but kept the eight, Noe, the preacher of justice, bringing in the deluge upon the world of the impious.\n"
 	"And bringing the cities of the Sodomites & of the Gomorrheites into ashes, he damned them with subversion, putting an example of them that shall do impiously:\n"
 	"and delivered just Lot oppressed by the injury and luxurious conversation of the abominable men.\n"
-	"For in sight andhearing he was just: dwelling with them who from day to day vexed the just soul with unjust works.\n"
+	"For in sight and hearing he was just: dwelling with them who from day to day vexed the just soul with unjust works.\n"
 	"Our Lord knoweth to deliver the godly from tentation, but to reserve the unjust unto the day of judgement to be tormented:\n"
 	"and especially them which walk after the flesh in concupiscence of uncleanness, and contemn dominion, bold, self-pleasers: they fear not to bring in sects, blaspheming.\n"
 	"Whereas Angels being greater in strength and power, bear not the execrable judgement against them.\n"

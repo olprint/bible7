@@ -33,7 +33,7 @@ const char* chap1098 = "AND JESUS being gone out of the temple, went. And his Di
 	"So you also, when you shall see these things, know ye that it is nigh even at the doors.\n"
 	"Amen I say to you, that this generation shall not pass, till all these things be done.\n"
 	"Heaven and earth shall pass, but my words shall not pass.\n"
-	"But of that day and hour no body knoweth, neither the Angels of Heaven, but the Father alone.\n"
+	"But of that day and hour nobody knoweth, neither the Angels of Heaven, but the Father alone.\n"
 	"And as in the days of Noe, so shall also the coming of the Son of man be.\n"
 	"For as they were in the days before the flood, eating and drinking, marrying and giving to marriage, even unto that day in which Noe entered into the ark,\n"
 	"and knew not till the flood came, & took them all: so also shall the coming of the Son of man be.\n"

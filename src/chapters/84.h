@@ -25,7 +25,7 @@ const char* chap84 = "And after this he said: Cut thee two tables of stone like 
 	"Thou shalt not immolate the blood of my host upon leaven: neither shall there remain in the morning of the victim of the solemnity of the Phase.\n"
 	"The first of the fruits of thy ground thou shalt offer in the house of the Lord thy God. Thou shalt not boil a kid in the milk of his dam.\n"
 	"And our Lord said to Moyses: write thee these words, in which I have made a covenant both with thee and with Israel.\n"
-	"Therefore he was there with our Lord forty days & forty nights: he did not eat bread, and he drunk no water, & he wrote in the tables the words of the covenant ten.\n"
+	"Therefore he was there with our Lord forty days & forty nights: he did not eat bread, and he drunk no water, & he wrote in the tables the words of the covenant, ten.\n"
 	"And when Moyses came down from the mount Sinai, he held the two tables of testimony, and he knew not that his face was horned by the conversation of the talk of our Lord.\n"
 	"And Aaron & the children of Israel seeing the face of Moyses horned, they were afraid to come near.\n"
 	"And being called of him, they returned as well Aaron as the Princes of the Synagogue. And after that he spake to them,\n"

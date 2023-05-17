@@ -15,7 +15,7 @@ const char* chap48 = "These things being so done, it was told Joseph that his fa
 	"And Jacob blessed the sons of Joseph, and said: God, in whose sight my fathers Abraham & Isaac have walked, God that feedeth me from my youth until this present day:\n"
 	"The Angel that delivereth me from all evils, bless these children: and be my name called upon them, the names also of my fathers Abraham, and Isaac, and grow they into a multitude upon the earth.\n"
 	"And Joseph seeing that his father had put his right hand upon the head of Ephraim, took it heavily: and taking his father's hand he went about to lift it from Ephraim's head & to remove it upon the head of Manasses.\n"
-	"And he said to his father: It is not convenient father so to be: because this is the first-begotten put thy right hand upon his head.\n"
+	"And he said to his father: It is not convenient father so to be: because this is the first-begotten^ put thy right hand upon his head.\n"
 	"Who refusing, said: I know my son, I know: and this same indeed shall be into peoples, and shall be multiplied: but his younger brother shall be greater than he: and his seed shall grow into nations.\n"
 	"And he blessed them at that time, saying: In thee shall Israel be blessed, and it shall be said: God do unto thee as unto Ephraim, & as unto Manasses. And he set Ephraim before Manasses.\n"
 	"And he said to Joseph his son: Behold I die, & God will be with you, and will bring you back into the land of your fathers.\n"

@@ -23,7 +23,7 @@ const char* chap1110 = "IN those days again when there was a great multitude, an
 	"And taking the hand of the blind, he led him forth out of the town; and spitting into his eyes, imposing his hands, he asked him if he saw any thing.\n"
 	"And looking up, he said: I see men as it were trees, walking.\n"
 	"After that again he imposed his hands upon his eyes, and he began to see, and was restored, so that he saw all things clearly.\n"
-	"And he sent him into his house, saying: Go into thy house; and if thou enter into the town, tell no body.\n"
+	"And he sent him into his house, saying: Go into thy house; and if thou enter into the town, tell nobody.\n"
 	"And JESUS went forth and his Disciples into the towns of Caesarea-Philippi; and in the way he asked his Disciples, saying to them: Whom do men say that I am?\n"
 	"Who answered him, saying: John the Baptist, some Elias, & other some as it were one of the Prophets.\n"
 	"Then he saith to them: But whom do you say that I am? Peter answering said to him: Thou art Christ.\n"

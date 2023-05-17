@@ -17,7 +17,7 @@ const char* chap57 = "And our Lord said to Moyses: Behold I have appointed thee 
 	"This therefore saith our Lord: In this thou shalt know that I am the Lord: behold I will strike with the rod that is in my hand, the water of the river, and it shall be turned into blood.\n"
 	"The fishes also, that are in the river, shall die, and the waters shall putrefy, and the Aegyptians shall be afflicted drinking the water of the river.\n"
 	"Our Lord also said to Moyses: Say unto Aaron, Take thy rod, and stretch forth thy hand upon the waters of Aegypt, and upon their floods, and rivers, and pools, and all the lakes of waters, that they may be turned into blood: and be there blood in all the Land of Aegypt, as well in the vessels of wood as of stone.\n"
-	"And Moyses and Aaron as our Lord had commanded: and lifting up the rod he struck the water of the river before Pharao and his servants: which was turned into blood.\n"
+	"And Moyses and Aaron did as our Lord had commanded: and lifting up the rod he struck the water of the river before Pharao and his servants: which was turned into blood.\n"
 	"And the fishes that were in the river died, and the river putrefied, and the Aegyptians could not drink the water of the river, and there was blood in the whole land of Aegypt.\n"
 	"And the enchanters of the Aegyptians with their enchantments did in like manner and Pharao's heart was indurate, neither did he hear them, as our Lord had commanded.\n"
 	"And he turned away himself, and went into his house, neither did he yet set his heart to it this time also.\n"

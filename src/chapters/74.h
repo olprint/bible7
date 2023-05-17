@@ -4,7 +4,7 @@ const char* chap74 = "To Moyses also he said: Go up to the Lord, thou, and Aaron
 	"And Moyses wrote all the words of our Lord: and rising in the morning he builded an Altar at the foot of the mount, & twelve titles according to the twelve tribes of Israel.\n"
 	"And he sent young men of the children of Israel, & they offered holocausts, & sacrificed pacific victims to our Lord, calves.\n"
 	"Moyses therefore took the half part of the blood, and put it into bowls: and the residue he poured upon the Altar.\n"
-	"And taking the volume of the covenant, he read the people hearing it: Who said, All things that our Lord hath spoken, we will do, and we will be obedient.\n"
+	"And taking the volume of the covenant, he read^ the people hearing it: Who said, All things that our Lord hath spoken, we will do, and we will be obedient.\n"
 	"And he took the blood, and sprinkled it upon the people, and said: This is the blood of the Covenant which our Lord hath made with you upon all these words.\n"
 	"And there went up Moyses and Aaron, Nadab and Abiu, and seventy of the Ancients of Israel:\n"
 	"and they saw the God of Israel: and under his feet as it were a work of sapphire stone, and as the heaven, when it is clear.\n"

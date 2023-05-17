@@ -2,7 +2,7 @@ const char* chap35 = "In the mean time God spake to Jacob: Arise, and go up to B
 	"And Jacob having called together all his house, said: Cast away the strange gods that are among you, and be cleansed and change your garments.\n"
 	"Arise, and let us go up into Bethel, that we may make there an altar unto God: who herd me in the day of my tribulation, and accompanied me in my journey.\n"
 	"They gave to him therefore all the strange gods that they had, and the earlets which were in their ears: but he buried them under the terebinth that is behind the city of Sichem.\n"
-	"And when they were departed the terror of God invaded all the cities round about, and they durst not pursue them going away.\n"
+	"And when they were departed, the terror of God invaded all the cities round about, and they durst not pursue them going away.\n"
 	"And Jacob came to Luza, which is in the land of Chanaan, surnamed Bethel: he and all the people that was with him.\n"
 	"And he builded there an altar, and called the name of that place, The house of God: for there God appeared to him when he fled from his brother.\n"
 	"The same time died Debora the nurse of Rebecca, and was buried at the foot of Bethel under an oak: and the name of that place was called The oak of weeping.\n"

@@ -1,7 +1,7 @@
 const char* chap1128 = "AND after this our Lord designed also other seventy two: and he sent them two and two before his face into every city and place whither himself would come.\n"
 	"And he said to them: The harvest truly is much; but the workmen few. Desire therefore the Lord of the harvest, that he send workmen into his harvest.\n"
 	"Go: Behold I send you as lambs among wolves.\n"
-	"Carry not purse nor scrip, nor shoes; and salute no body by the way.\n"
+	"Carry not purse nor scrip, nor shoes; and salute nobody by the way.\n"
 	"Into whatsoever house you enter, first say: Peace to this house.\n"
 	"And if the son of peace be there, your peace shall rest upon him: but if not, it shall return to you.\n"
 	"And in the same house tarry you, eating and drinking such things as they have. For the workman is worthy of his hire. Remove not from house to house.\n"

@@ -9,7 +9,7 @@ const char* chap1185 = "MEN brethren and fathers, hear what account I do render 
 	"And they that were with me, saw the light indeed, but the voice they heard not of him that spake with me.\n"
 	"And I said: What shall I do Lord? And our Lord said to me: Arise and go to Damascus; and there it shall be told thee of all things that thou must do.\n"
 	"And whereas I did not see for the brightness of that light, being led of my companions by the hand, I came to Damascus.\n"
-	"And one Ananias, a man according to the Law, having testimony of all the Jews inhabitants,\n"
+	"And one Ananias, a man according to the Law, having testimony of all the Jews' inhabitants,\n"
 	"coming to me, and standing by me, said to me: Brother Saul, look up. And I^ the self-same hour looked upon him.\n"
 	"But he said: The God of our fathers hath preordained thee, that thou shouldest know his will, and see the just one, and hear a voice from his mouth:\n"
 	"because thou shalt be his witness to all men, of those things which thou hast seen and heard.\n"

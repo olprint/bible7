@@ -8,7 +8,7 @@ const char* chap1176 = "AND there were in the Church which was at Antioch, Proph
 	"But Elymas the magician (for so is his name interpreted) resisted them, seeking to avert the Proconsul from the faith.\n"
 	"But Saul, otherwise Paul, replenished with the Holy Ghost, looking upon him,\n"
 	"said: O full of all guile, and all deceit, son of the devil, enemy of all justice, thou ceasest not to subvert the right ways of our Lord.\n"
-	"And now behold the hand of our Lord upon thee, & thou shalt be blind, not seeing the sun until a time. And forthwith there fell dimness and darkness upon him, and going about he sought some body that would give him his hand.\n"
+	"And now behold the hand of our Lord upon thee, & thou shalt be blind, not seeing the sun until a time. And forthwith there fell dimness and darkness upon him, and going about he sought somebody that would give him his hand.\n"
 	"Then the Proconsul, when he had seen that which was done, believed, marveling at the doctrine of our Lord.\n"
 	"And when Paul and they that were with him had sailed from Paphos, they came to Perge in Pamphylia. And John departing from them, returned to Jerusalem.\n"
 	"But they passing through Perge, came to Antioch in Pisidia: and entering into the Synagogue on the day of the Sabboth, they sat down.\n"

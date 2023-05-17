@@ -22,7 +22,7 @@ const char* chap1290 = "AND therefore we also having so great a cloud of witness
 	"But you are come to mount Sion, and the city of the living God, heavenly Jerusalem, and the assembly of many thousand Angels,\n"
 	"& the Church of the first-born, which are written in the Heavens, and the judge of all, God: and the spirits of the just made perfect,\n"
 	"and the mediator of the new Testament JESUS, and the sprinkling of blood speaking better than Abel.\n"
-	"See that you refuse him not^ speaking. For if they escaped not, refusing him that spake upon the earth, much more we, that turn away from him speaking to us from Heaven.\n"
+	"See that you refuse him not speaking. For if they escaped not, refusing him that spake upon the earth, much more we, that turn away from him speaking to us from Heaven.\n"
 	"Whose voice moved the earth then: but now he promiseth, saying, Yet once; and I will move not only the earth, but heaven also.\n"
 	"And in that he sayeth, Yet once, he declareth the translation of moveable things as being made, that those things may remain which are unmovable.\n"
 	"Therefore receiving an unmovable kingdom, we have grace: but the which let us serve pleasing God, with fear & reverence.\n"

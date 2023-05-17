@@ -41,5 +41,5 @@ const char* chap1103 = "THE beginning of the Gospel of JESUS CHRIST the Son of G
 	"And JESUS having compassion on him, stretched forth his hand; and touching him, he saith unto him: I will. Be thou made clean.\n"
 	"And when he had spoken, immediately the leprosy departed from him, and he was made clean.\n"
 	"And he threatened him, and forthwith cast him forth.\n"
-	"And he saith to him: See thou tell no body, but go, shew thyself to the high Priest, and offer for thy cleansing the things that Moyses commanded, for a testimony to them.\n"
+	"And he saith to him: See thou tell nobody, but go, shew thyself to the high Priest, and offer for thy cleansing the things that Moyses commanded, for a testimony to them.\n"
 	"But he being gone forth, began to publish, and to blase abroad the word: so that now he could not openly go into the city, but was abroad in desert places, and they came together unto him from all sides.";

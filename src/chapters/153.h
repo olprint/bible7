@@ -1,5 +1,5 @@
 const char* chap153 = "And the Princes also of the families of Galaad, the son of Machir, the son of Manasses of the stock of the children of Joseph came, and spake to Moyses before the Princes of Israel, and said:\n"
-	"Our Lord hath commanded thee our Lord that thou shouldest by lot divide the Land to the children of Israel, and that to the daughters of Salphaad our brother thou shouldest give the possession due to their father:\n"
+	"Our Lord hath commanded thee our lord that thou shouldest by lot divide the Land to the children of Israel, and that to the daughters of Salphaad our brother thou shouldest give the possession due to their father:\n"
 	"Whom if men of another tribe take to wives, their possession shall follow, and being translated to another tribe, it shall be a diminishing of our inheritance.\n"
 	"And so it shall come to pass, that when the Jubilee, that is the fiftieth year of remission is come, the distribution of the lots shall be confounded, and the possession of one shall pass to others.\n"
 	"Moyses answered the children of Israel, and as our Lord commanded, said: The tribe of the children of Joseph hath spoken rightly.\n"

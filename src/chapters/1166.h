@@ -11,7 +11,7 @@ const char* chap1166 = "AND Peter and John went up into the temple, at the ninth
 	"And as he held Peter and John, all the people ran to them unto the porch which is called Salomon's, wondering.\n"
 	"But Peter seeing them, made answer to the people: Ye men of Israel, why marvel you at this, or why look you upon us, as though by our power or holiness we have made this man to walk?\n"
 	"The God of Abraham, and the God of Isaac, and the God of Jacob, the God of our fathers hath glorified his Son JESUS, whom you indeed delivered & denied before the face of Pilate, he judging him to be released.\n"
-	"But you denied the Holy and the Just One, and asked a mankiller to be given unto you.\n"
+	"But you denied the Holy and the Just One, and asked a man-killer to be given unto you.\n"
 	"But the Author of life you killed, whom God hath raised from the dead, of which we are witnesses.\n"
 	"And in the faith of his name, this man whom you see and know, his name hath strengthened; & the faith which is by him, hath given this perfect health in the sight of all you.\n"
 	"And now (brethren) I know that you did it through ignorance, as also your princes.\n"

@@ -14,7 +14,7 @@ const char* chap1187 = "AND after five days^ the high priest Ananias descended, 
 	"But this I confess to thee, that according to the sect, which they call heresy, I do so serve the Father my God, believing all things that are written in the Law & the Prophets:\n"
 	"having hope in God, the which these also themselves expect, that there shall be a resurrection of just and unjust.\n"
 	"In this myself also do study to have a conscience without offence toward God and toward men always.\n"
-	"And after many years I came to bestow alms upon my nation, & oblations, and vows.\n"
+	"And after many years^ I came to bestow alms upon my nation, & oblations, and vows.\n"
 	"In the which they found me purified in the temple: not with multitude nor with tumult.\n"
 	"But certain Jews of Asia, who ought to be present before thee and to accuse, if they had any thing against me:\n"
 	"or let these men themselves say, if they have found in me any iniquity, forasmuch as I stand in the Council,\n"

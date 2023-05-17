@@ -23,7 +23,7 @@ const char* chap158 = "And Moyses called all Israel, and said to them: Hear Isra
 	"And you after you heard the voice out of the midst of the darkness, and saw the mount burn, came to me all the Princes of the tribes and the elders, and you said:\n"
 	"Behold the Lord our God hath shewed us his majesty and greatness for we have heard his voice out of the midst of the fire, & have proved this day that God speaking with man, man hath lived.\n"
 	"Why shall we die therefore, and this exceeding great fire devour us? For if we hear the voice of the Lord our God any more, we shall die.\n"
-	"What is all flesh, that it should hear the voice of the living God, who speaketh out of the midst of the fires as we have heard, and may live?\n"
+	"What is all flesh, that it should hear the voice of the living God, who speaketh out of the midst of the fire as we have heard, and may live?\n"
 	"Approach thou rather: and hear all things that the Lord our God shall say to thee: and thou shalt speak to us, and we hearing will do them.\n"
 	"Which when our Lord had heard, he said to me: I have heard the voice of the words of this people, which they spake to thee: they have spoken all things well.\n"
 	"Who shall give them to have such a mind, that they would fear me, and keep all my commandments at all time, that it may be well with them and with their children for ever?\n"

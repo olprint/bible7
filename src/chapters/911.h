@@ -17,7 +17,7 @@ const char* chap911 = "AND now o Lord omnipotent, God of Israel, the soul in dis
 	"that play with the birds of the heaven,\n"
 	"that treasure up silver, and gold, wherein men have confidence, and is there no end of their getting? which fashion silver & are careful, neither is there invention of their works?\n"
 	"They are destroyed, and are gone down to hell, and others are risen up in their place.\n"
-	"Yong men saw the light, and dwelt upon the earth: but the way of discipline they knew not,\n"
+	"Young men saw the light, and dwelt upon the earth: but the way of discipline they knew not,\n"
 	"neither understood they the paths thereof, neither have their children received it, it is made far from their face.\n"
 	"It hath not been heard in the Land of Chanaan, neither hath it been seen in Theman.\n"
 	"The children of Agar also, that seek out the prudence, that is of the earth, merchants of Merrhe, and of Theman, and fablers, and searchers of prudence and understanding: but the way of wisdom they have not known, neither have they remembered the paths thereof.\n"

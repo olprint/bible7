@@ -45,7 +45,7 @@ const char* chap1087 = "THE same day JESUS going out of the house, sat by the se
 	"Again the Kingdom of Heaven is like to a merchant man, seeking good pearls.\n"
 	"And having found one precious pearl, he went his way, and sold all that he had, and bought it.\n"
 	"Again the Kingdom of Heaven is like to a net cast into the sea, and gathering together of all kind of fishes.\n"
-	"Which, when it was filled, drawing it forth, and sitting by the shore, they chose out the good^ into vessels, but the bad they did cast out.\n"
+	"Which, when it was filled, drawing it forth, and sitting by the shore, they chose out the good into vessels, but the bad they did cast out.\n"
 	"So shall it be in the consummation of the world. The Angels shall go forth, and shall separate the evil from among the just.\n"
 	"And shall cast them into the furnace of fire; there shall be weeping and gnashing of teeth.\n"
 	"Have ye understood all these things? They say to him, Yea.\n"

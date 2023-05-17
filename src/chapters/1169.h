@@ -2,7 +2,7 @@ const char* chap1169 = "AND in those days the number of Disciples increasing, th
 	"And the Twelve calling together the multitude of the Disciples, said: it is not reason, that we leave the word of God, and serve tables.\n"
 	"Consider therefore brethren, seven men of you of good testimony, full of the Holy Ghost and wisdom, whom we may appoint over this business.\n"
 	"But we will be instant in prayer and the ministry of the word.\n"
-	"And the saying was liked before all the multitude. And they chose Steven a man full of faith and of the Holy Ghost, and Philippe, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolas a stranger of Antioch:\n"
+	"And the saying was liked before all the multitude. And they chose Steven^ a man full of faith and of the Holy Ghost, and Philippe, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolas a stranger of Antioch:\n"
 	"These they did set in the presence of the Apostles: and praying they imposed hands upon them.\n"
 	"And the word of God increased, and the number of the Disciples was multiplied in Jerusalem exceedingly: a great multitude also of the Priests obeyed the faith.\n"
 	"And Steven full of grace and fortitude did great wonders & signs among the people.\n"

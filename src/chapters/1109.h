@@ -19,7 +19,7 @@ const char* chap1109 = "AND there assemble together unto him the Pharisees and c
 	"because it entereth not into his heart, but goeth into the belly, and is cast out into the privy, purging all the meats?\n"
 	"But he said that the things which come forth from a man, they make a man common.\n"
 	"For from within out of the heart of men proceed evil cogitations, adulteries, fornications, murders,\n"
-	"thefts, avarices, wickedness, guile, impudicities, and evil eye, blasphemy, pride, foolishness.\n"
+	"thefts, avarices, wickedness, guile, impudicities, an evil eye, blasphemy, pride, foolishness.\n"
 	"All these evils proceed from within, and make a man common.\n"
 	"And rising from thence he went into the coasts of Tyre and Sidon: and entering into a house, he would that no man should know, and he could not be hid.\n"
 	"For a woman immediately as she heard of him, whose daughter had an unclean spirit, entered in, and fell down at his feet.\n"
@@ -33,5 +33,5 @@ const char* chap1109 = "AND there assemble together unto him the Pharisees and c
 	"And taking him from the multitude apart, he put his fingers into his ears, and spitting, touched his tongue;\n"
 	"And looking up unto Heaven, he groaned, and said to him: Ephphetha, which is, Be thou opened.\n"
 	"And immediately his ears were opened, and the string of his tongue was loosed, and he spake right.\n"
-	"And he commanded them not to tell any body. But how much he commanded them, so much the more a great deal did they publish it.\n"
+	"And he commanded them not to tell anybody. But how much he commanded them, so much the more a great deal did they publish it.\n"
 	"And so much the more did they wonder, saying: He hath done all things well; he hath made both the deaf to hear, and the dumb to speak.";

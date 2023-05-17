@@ -8,7 +8,7 @@ const char* chap1165 = "AND when the days of Pentecost were accomplished, they w
 	"and how have we heard, each man our own tongue wherein we were born?\n"
 	"Parthians, & Medians, & Elamites, & that inhabit Mesopotamia, Jewry, & Cappadocia, Pontus, and Asia,\n"
 	"Phrygia, and Pamphilia, Aegypt & the parts of Libya that is about Cyrenee, & strangers of Rome,\n"
-	"Jews also, and Proselytes, Cretensians, and Arabians: we have heard, them speak in our own tongues the great works of God.\n"
+	"Jews also, and Proselytes, Cretensians, and Arabians: we have heard them speak in our own tongues the great works of God.\n"
 	"And they were all astonished, and marveled, saying one to another: What meaneth this?\n"
 	"But others deriding said: That these are full of new wine.\n"
 	"But Peter standing with the Eleven, lifted up his voice; and spake to them: Ye men, Jews, and all you that dwell in Jerusalem, be this known to you, and with your ears receive my words.\n"

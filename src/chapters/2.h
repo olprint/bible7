@@ -2,7 +2,7 @@ const char* chap2 = "The heavens therefore & the earth were fully finished, and 
 	"And the seventh day God ended his work which he had made; and rested the seventh day, from all work that he had done.\n"
 	"And he blessed the seventh day & sanctified it: because in it he had ceased from all his work which God created to make.\n"
 	"These are the generations of heaven & earth, when they were created in the day, when our Lord God made the heaven, and the earth,\n"
-	"and every plant of the field, before it shot up in the earth, and every herb of the ground before it sprang. For our Lord God had not rained upon the earth; and man was not, to till the earth:\n"
+	"and every plant of the field, before it shot up in the earth, and every herb of the ground before it sprang. For our Lord God had not rained upon the earth; and man was not^ to till the earth:\n"
 	"But a spring rose out of the earth, watering all the overmost part of the earth.\n"
 	"Our Lord God therefore formed man of the slime of the earth: and breathed into his face the breath of life, & man became a living soul.\n"
 	"And our Lord God had planted Paradise of pleasure from the beginning: wherein he placed man whom he had formed.\n"

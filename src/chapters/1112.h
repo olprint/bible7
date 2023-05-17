@@ -3,7 +3,7 @@ const char* chap1112 = "AND rising up thence, he cometh into the coasts of Jewry
 	"But he answering, said to them: What did Moyses command you?\n"
 	"Who said: Moyses permitted to write a bill of divorce, and to dismiss her.\n"
 	"To whom JESUS answering, said: For the hardness of your heart he wrote you this precept.\n"
-	"But from the beginning of the creation^ God made them male & female.\n"
+	"But from the beginning of the creation God made them male & female.\n"
 	"For this cause, man shall leave his father & mother; and shall cleave to his wife.\n"
 	"And they two shall be in one flesh. Therefore now they are not two, but one flesh.\n"
 	"That therefore which God hath joined together, let no man separate.\n"

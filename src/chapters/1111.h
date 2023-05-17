@@ -27,7 +27,7 @@ const char* chap1111 = "And after six days JESUS taketh Peter and James and John
 	"And when he was entered into the house, his Disciples secretly asked him, why could not we cast him out?\n"
 	"And he said to them: This kind can go out by nothing but by prayer and fasting.\n"
 	"And departing thence they passed by Galilee, neither would he that any man should know.\n"
-	"And he taught his Disciples, and said to them: That the Son of man shall be betrayed into the hands of men, and they shall kill him, and being killed the third day he shall rise again.\n"
+	"And he taught his Disciples, and said to them: That the Son of man shall be betrayed into the hands of men, and they shall kill him, and being killed^ the third day he shall rise again.\n"
 	"But they knew not the word: and they were afraid to ask him.\n"
 	"And they came to Capharnaum. Who, when he was in the house, asked them, what did you treat of in the way?\n"
 	"But they held their peace, for in the way they had disputed among themselves, which of them should be the greater.\n"

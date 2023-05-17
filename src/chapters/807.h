@@ -13,7 +13,7 @@ const char* chap807 = "The burden of the vale of vision. What aileth thee, that 
 	"and behold joy and gladness, to kill calves, and to slay rams, to eat flesh, and to drink wine: Let us eat and drink: for tomorrow we shall die.\n"
 	"And the voice of the Lord of hosts was revealed in mine ears: If this iniquity shall be forgiven you until you die, saith our Lord the God of hosts.\n"
 	"Thus saith our Lord the God of hosts: Go, get thee in to him, that dwelleth in the tabernacle, to Sobna the provost of the temple, and thou shalt say to him:\n"
-	"What doest thou here, or as if thou were some body here? Because thou hast cut thee out a sepulchre here, thou hast cut out a memorial diligently in an high place, a tabernacle for thee in a rock.\n"
+	"What doest thou here, or as if thou were somebody here? Because thou hast cut thee out a sepulchre here, thou hast cut out a memorial diligently in an high place, a tabernacle for thee in a rock.\n"
 	"Behold our Lord will cause thee to be carried away, as a cock is carried, and he will lift thee up as a garment.\n"
 	"Crowning he will crown thee with tribulation, he will cast thee as a ball into a broad and large country: there shalt thou die, and there shall the chariot of thy glory be, the ignominy of the house of thy Lord.\n"
 	"And I will expel thee from thy standing, and depose thee from thy ministry.\n"

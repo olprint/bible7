@@ -37,7 +37,7 @@ const char* chap1114 = "AND he began to speak to them in parables: A man planted
 	"David therefore himself calleth him Lord, and whence is he his son? And a great multitude heard him gladly.\n"
 	"And he said to them in his doctrine: Take heed of the Scribes that will walk in long robes, and be saluted in the market-place,\n"
 	"And sit in the first chairs in the Synagogues, and love the highest places at suppers:\n"
-	"Which devour widow's houses under the pretence of long prayer: these shall receive larger judgement.\n"
+	"Which devour widows' houses under the pretence of long prayer: these shall receive larger judgement.\n"
 	"And JESUS sitting over against the treasury, beheld how the multitude did cast money into the treasury, and many rich men did cast in much.\n"
 	"And when there came a certain poor widow, she cast in two mites, which is a farthing.\n"
 	"And calling his Disciples together, he saith to them, Amen I say to you, that this poor widow hath cast in more than all that have cast into the treasury.\n"

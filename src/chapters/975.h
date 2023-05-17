@@ -17,7 +17,7 @@ const char* chap975 = "AND there was a man dwelling in Babylon, and his name Joa
 	"She therefore said to the maids: Fetch me oil, and washing balls, and shut the doors of the orchard, that I may be washed.\n"
 	"And they did as she had commanded: and they shut the doors of the orchard, and went out by a back door to fetch the thing that she had commanded; and they knew not that the ancients were hid within.\n"
 	"But when the maids were gone forth, the two ancients arose, and ran to her, and said:\n"
-	"Lo the doors of the orchard be shut, and no body seeth us, and we are in the concupiscence of thee: wherefore consent to us, and lie with us.\n"
+	"Lo the doors of the orchard be shut, and nobody seeth us, and we are in the concupiscence of thee: wherefore consent to us, and lie with us.\n"
 	"and if thou wilt not, we will give testimony against thee, that there was a young man with thee, and for this cause thou didst send out thy maids from thee.\n"
 	"Susanna sighed, and said: Perplexities are to me on every side: for if I shall do this, it is death to me: and if I do it not, I shall not escape your hands.\n"
 	"But it is better for me without the act to fall into your hands, than to sin in the sight of our Lord.\n"

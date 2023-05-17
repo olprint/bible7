@@ -27,7 +27,7 @@ const char* chap1180 = "AND when they had walked through Amphipolis and Apolloni
 	"for to seek God, if happily they may feel or find him; although he be not far from every one of us:\n"
 	"For in him we live and move and be, as certain also of your own poets said, For of his kind also we are.\n"
 	"Being therefore of God's kind, we may not suppose, the Divinity to be like unto gold or silver, or stone, the graving of art and device of man.\n"
-	"And the times truly of this ignorance whereas God despised, now he denounceth unto men that all every where do penance,\n"
+	"And the times truly of this ignorance whereas God despised, now he denounceth unto men that all every-where do penance,\n"
 	"for that he hath appointed a day wherein he will judge the world in equity, by a man whom he hath appointed, giving all men faith, raising him up from the dead.\n"
 	"And when they had heard the resurrection of the dead, certain indeed mocked, but certain said: We will hear thee again concerning this point.\n"
 	"So Paul went forth out of the midst of them.\n"

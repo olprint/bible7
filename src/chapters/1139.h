@@ -2,7 +2,7 @@ const char* chap1139 = "AND beholding, he saw them that did cast their gifts int
 	"And he saw also a certain poor widow casting two brass mites.\n"
 	"And he said: Verily I say to you, that this poor widow hath cast more than all.\n"
 	"For all these of their aboundance have cast into the gifts of God: but she of her penury, hath cast in all her living that she had.\n"
-	"And certain^ saying of the temple that it was adorned with goodly stones and donaries, he said:\n"
+	"And certain saying of the temple that it was adorned with goodly stones and donaries, he said:\n"
 	"These things which you see, the days will come wherein there shall not be left a stone upon a stone that shall not be destroyed.\n"
 	"And they asked him, saying: Master, when shall these things be: and what shall be the sign when they shall begin to come to pass?\n"
 	"Who said: See you be not seduced. For many will come in my name, saying that I am he: and the time is at hand, go not therefore after them.\n"

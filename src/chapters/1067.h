@@ -4,7 +4,7 @@ const char* chap1067 = "But Judas Machabeus and they that were with him, went in
 	"he would remember also the most unjust deaths of innocent children, & the blasphemies done to his name, and would take indignation for them.\n"
 	"But Machabeus having gathered a multitude, became intolerable to the heathen: for the wrath of our Lord was turned into mercy.\n"
 	"And coming upon the castles and cities unlooked for, he burnt them: and taking commodious places, he made not few slaughters of the enemies:\n"
-	"and especially in the nights he was carried to such excursions, and the same of his manliness was spread abroad every where.\n"
+	"and especially in the nights he was carried to such excursions, and the same of his manliness was spread abroad every-where.\n"
 	"But Philip seeing the man to come forward by little & little, & that things for the more part succeeded with him prosperously, wrote to Ptolomee the governor of Coelesyria & Phoenicia, to give aid to the king's affairs.\n"
 	"And he with speed sent Nicanor the son of Patroclus, of the principals of his friends, giving him of the nations mingled together, no less than twenty thousand armed men, to destroy utterly all the stock of the Jews, adjoining also unto him Gorgias a man of war, and in martial affairs of very great experience.\n"
 	"And Nicanor appointed, that he would supply unto the king the tribute that was to be given to the Romans, two thousand talents out of the captivity of the Jews:\n"
@@ -32,5 +32,5 @@ const char* chap1067 = "But Judas Machabeus and they that were with him, went in
 	"and Philarches that was with Timothee, they slew, a wicked man, which in many things had afflicted the Jews.\n"
 	"And when they kept the feast of victory in Jerusalem, him that had burnt the holy gates, that is, Callisthenes, when he was fled into a certain house, they burnt, a worthy reward being repayed him for his impieties:\n"
 	"But the most impious Nicanor, who had brought a thousand merchants to the sale of the Jews,\n"
-	"being humbled through the help of our Lord by them, whom he esteemed no body, laying aside his garment of glory, flying by the midland, came alone to Antioch, having gotten great infelicity by the destruction of his army.\n"
+	"being humbled through the help of our Lord by them, whom he esteemed nobody, laying aside his garment of glory, flying by the midland, came alone to Antioch, having gotten great infelicity by the destruction of his army.\n"
 	"And he that had promised that he would render tribute to the Romans of the captivity of Jerusalem, now professed that the Jews had God their protector, and that for him they could not be wounded, because they followed the laws appointed by him.";

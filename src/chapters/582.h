@@ -18,7 +18,7 @@ const char* chap582 = "Unto the end, for them that shall be changed, to David.\n
 	"And turn not away thy face from thy servant: because I am in tribulation, hear me speedily.\n"
 	"Attend to my soul, and deliver it: because of mine enemies deliver me.\n"
 	"Thou knowest my reproach & my confusion, & my shame.\n"
-	"In thy sight are all they that afflict me, my heart hath looked for reproach and misery. And I expected some body that would be sorry together with me, and there was none: and that would comfort me, and I found not.\n"
+	"In thy sight are all they that afflict me, my heart hath looked for reproach and misery. And I expected somebody that would be sorry together with me, and there was none: and that would comfort me, and I found not.\n"
 	"And they gave gall for my meat: & in my thirst they gave me vinegar to drink.\n"
 	"Let their table be made a snare before them, & for retributions, and for a scandal.\n"
 	"Let their eyes be darkened that they see not: and make their back crooked always.\n"

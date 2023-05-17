@@ -21,5 +21,5 @@ const char* chap69 = "In the third month of the departure of Israel out of the L
 	"he said unto him: Go down, and charge the people, lest perhaps they will pass their limits to see the Lord, and a very great multitude of them perish.\n"
 	"The Priests also that come to the Lord, let them be sanctified, lest he strike them.\n"
 	"And Moyses said to our Lord: The common people cannot ascend into the mount Sinai: for thou didst charge, and command, saying: Put limits about the mount, and sanctify it.\n"
-	"To whom our Lord said: Go, get thee down, and thou shalt come up, and Aaron with thee: but the Priests and the people let them not pass the limits nor ascend to the Lord, lest perhaps he kill them.\n"
+	"To whom our Lord said: Go, get thee down, and thou shalt come up, and Aaron with thee: but the Priests and the people let them not pass the limits, nor ascend to the Lord, lest perhaps he kill them.\n"
 	"And Moyses went down to the people, and told them all.";

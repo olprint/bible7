@@ -5,7 +5,7 @@ const char* chap1118 = "AND when the Sabboth was past, Mary Magdalene and Mary o
 	"And entering into the monument, they saw a young man sitting on the right hand covered with a white robe: and they were astonished.\n"
 	"Who saith to them: Be not dismayed; you seek JESUS of Nazareth, that was crucified; he is risen, he is not here, behold the place were they laid him.\n"
 	"But go, tell his Disciples and Peter that he goeth before you into Galilee; there you shall see him, as he told you.\n"
-	"But they going forth, fled from the monument. For trembling and fear had invaded them: and they said nothing to any body, for they were afraid.\n"
+	"But they going forth, fled from the monument. For trembling and fear had invaded them: and they said nothing to anybody, for they were afraid.\n"
 	"And he rising early the first of the Sabboth, appeared first to Mary Magdalen, out of whom he had cast seven devils.\n"
 	"She went and told them that had been with him, that were mourning & weeping.\n"
 	"And they hearing that he was alive and had been seen of her, did not believe.\n"
@@ -17,4 +17,4 @@ const char* chap1118 = "AND when the Sabboth was past, Mary Magdalene and Mary o
 	"And them that believe^ these signs shall follow: In my name shall they cast out devils; They shall speak with new tongues;\n"
 	"Serpents shall they take away; And if they drink any deadly thing, it shall not hurt them; They shall impose hands upon the sick and they shall be whole.\n"
 	"And so our Lord JESUS after he spake unto them, was assumpted into Heaven, and sat on the right hand of God.\n"
-	"But they going forth preached every where: our Lord working withal, and confirming the word with signs that followed.";
+	"But they going forth preached every-where: our Lord working withal, and confirming the word with signs that followed.";

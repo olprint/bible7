@@ -4,7 +4,7 @@ const char* chap143 = "After the blood of the offenders was shed, our Lord said 
 	"from twenty years and upward, as our Lord had commanded, of whom this is the number:\n"
 	"Ruben the first born of Israel, his son, Henoch, of whom is the family of the Henochites: and Phallu, of whom is the family of the Phalluites:\n"
 	"and Hesron, of whom is the family of the Hesronites: and Charmi, of whom is the family of the Charmites.\n"
-	"These are the families of the stock of Ruben: whose number was found forty three thousand, and seven hundred thirty\n"
+	"These are the families of the stock of Ruben: whose number was found forty three thousand, and seven hundred thirty.\n"
 	"The son of Phallu, Eliab:\n"
 	"his sons, Namuel and Dathan and Abiron. These are Dathan and Abiron the Princes of the people, that rose against Moyses and Aaron in the sedition of Core, when they rebelled against our Lord:\n"
 	"and the earth opening her mouth devoured Core, very many dying, when the fire burnt two hundred fifty men. And there was a great miracle done,\n"

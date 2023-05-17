@@ -16,7 +16,7 @@ const char* chap86 = "Beseleel therefore, and Ooliab, and every wise man, to who
 	"of which five he joined apart, & the other six apart.\n"
 	"And he made fifty loops in the edge of one curtain, and fifty in the edge of another curtain, that they might be joined one to another.\n"
 	"And fifty buckles of brass wherewith the roof might be knit together, that of all the curtains there might be made one covering.\n"
-	"He made also a cover for the tabernacle of ram's skins dyed red: & another cover over that of janthine skins.\n"
+	"He made also a cover for the tabernacle of rams' skins dyed red: & another cover over that of janthine skins.\n"
 	"He made also the boards of the tabernacle of the wood setim standing.\n"
 	"The length of one board was ten cubits: and the breadth contained one cubit & an half.\n"
 	"There were two mortises throughout every board, that one might be joined to the other. So made he in all the boards of the tabernacle.\n"

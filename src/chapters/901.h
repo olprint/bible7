@@ -12,7 +12,7 @@ const char* chap901 = "The word that our Lord hath spoken of Babylon, and the La
 	"Your Mother is confounded exceedingly, and made even with the dust, she that bare you: behold she shall be the last among the Gentiles, desolate, without access, and dry.\n"
 	"Of the wrath of our Lord it shall not be inhabited, but shall be brought wholly into desolation: every one that shall pass by Babylon, shall be astonished, and shall hiss upon all the plagues thereof.\n"
 	"Be prepared against Babylon round about all ye that bend bow; overthrow her, spare not arrows: because she hath sinned to our Lord.\n"
-	"Cry against her, she hath given the hand every where, her foundations are fallen, her walls are destroyed, because it is the vengeance of our Lord. Take vengeance of her: as she hath done, so do to her.\n"
+	"Cry against her, she hath given the hand every-where, her foundations are fallen, her walls are destroyed, because it is the vengeance of our Lord. Take vengeance of her: as she hath done, so do to her.\n"
 	"Destroy the sower out of Babylon, and him that holdeth the sickle in the harvest time: at the face of the sword of the dove every man shall return to his people, and every one shall fly to his own land.\n"
 	"Israel is a flock dispersed, lions have cast him out: first the king of Assur did eat him: last this Nabuchodonosor the king of Babylon hath spoiled his bones.\n"
 	"Therefore thus saith the Lord of hosts the God of Israel: Behold I will visit the king of Babylon and his land, as I have visited the king of Assur:\n"

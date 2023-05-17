@@ -4,7 +4,7 @@ const char* chap154 = "These are the words, which Moyses spake to all Israel bey
 	"after that he had struck Sehon king of the Amorrheites, which dwelt in Hesebon: and Og the king of Basan which abode in Aseroth, and in Edrai,\n"
 	"beyond Jordan in the Land of Moab. And Moyses began to expound the law, and to say:\n"
 	"The Lord our God spake to us in Horeb, saying: It is sufficient for you that you have stayed in this mountain:\n"
-	"return, and come to the mountain of the Amorrheites, and to the rest that are next to it champion and hilly and lower places against the South, and beside the shore of the sea, the Land of the Chananites, and of Libanus unto the great river Euphrates.\n"
+	"return, and come to the mountain of the Amorrheites, and to the rest that are next to it^ champion and hilly and lower places against the South, and beside the shore of the sea, the Land of the Chananites, and of Libanus unto the great river Euphrates.\n"
 	"Behold (quoth he) I have delivered it to you: enter in and possess it, upon the which our Lord sware to your fathers Abraham, Isaac, and Jacob, that he would give it to them, & to their seed after them.\n"
 	"And I said to you at that time:\n"
 	"I alone cannot sustain you, because the Lord your God hath multiplied you, and you are this day as the stars of heaven, very many.\n"

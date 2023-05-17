@@ -33,6 +33,6 @@ const char* chap1070 = "But a little after^ Lysias the king's procurator, and co
 	"Fare ye well. In the year an hundred forty eight, of the month Xanthicus the fifteenth day.\n"
 	"And the Romans also sent an epistle, which is thus: Quintus Memmius, and Titus Manilius legates of the Romans, to the people of the Jews^ health.\n"
 	"Concerning these things which Lysias the king's cousin hath granted you, we also have granted.\n"
-	"But touching the things which he thought good to be referred to the king, send ye forthwith some body, conferring diligently among yourselves, that we may decree as is convenient for you: for we go to Antioch.\n"
+	"But touching the things which he thought good to be referred to the king, send ye forthwith somebody, conferring diligently among yourselves, that we may decree as is convenient for you: for we go to Antioch.\n"
 	"And therefore make haste to write again, that we also may know of what mind you are.\n"
 	"Fare ye well. In the year an hundred forty eight the fifteenth day of the month Xanthicus.";

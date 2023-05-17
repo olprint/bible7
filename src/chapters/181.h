@@ -53,7 +53,7 @@ const char* chap181 = "But if thou wilt hear the voice of our Lord thy God, that
 	"and thou shalt eat the fruit of thy womb, and the flesh of thy sons & of thy daughters, which our Lord thy God shall give thee, in the distress and vastation wherewith thine enemy shall oppress thee.\n"
 	"The man that is delicate in thee & very riotous, shall much envy his own brother, and his wife that lieth in his bosom,\n"
 	"so that he shall not give them of the flesh of his children, which he will eat: because he hath nothing else in the siege and penury, wherewith thine enemies shall waste thee within all thy gates.\n"
-	"The tender and delicate woman, that could not go upon the ground; nor set down her foot for over-much niceness and tenderness, will envy her husband, that lieth in her bosom, upon the flesh of her son and daughter:\n"
+	"The tender and delicate woman, that could not go upon the ground; nor set down her foot for over-much niceness and tenderness, will envy her husband, that lieth in her bosom, upon the flesh of her son, and daughter:\n"
 	"and the filthiness of the after births, that come forth from the midst of her thighs, and upon the children that are born the same hour. For they shall eat them secretly, because of the penury of all things, in the siege and vastation, wherewith thine enemy shall oppress thee within thy gates.\n"
 	"Unless thou keep and do all the words of this law, that be written in this volume, and fear his name glorious and terrible, that is, Our Lord thy God:\n"
 	"our Lord shall increase thy plagues, and the plagues of thy seed, great plagues and continuing, sore infirmities and perpetual.\n"

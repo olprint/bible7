@@ -35,7 +35,7 @@ const char* chap1173 = "AND there was a certain man in Caesarea, named Cornelius
 	"But in every nation, he that feareth him, and worketh justice, is acceptable to him.\n"
 	"The word did God send to the children of Israel, preaching peace by JESUS CHRIST (this is Lord of all.)\n"
 	"You know the word that hath been made through all Jewry, for beginning from Galilee, after the baptism which John preached:\n"
-	"JESUS of Nazareth how God anointed him with the Holy Ghost and with power, who went throughout doing good and healing all that were oppressed of the devil, because God was with him.\n"
+	"JESUS of Nazareth^ how God anointed him with the Holy Ghost and with power, who went throughout doing good and healing all that were oppressed of the devil, because God was with him.\n"
 	"And we are witnesses of all things that he did in the country of the Jews and in Jerusalem, whom they killed hanging him upon a tree.\n"
 	"Him God raised up the third day and gave him to be made manifest,\n"
 	"not to all the people, but to us, who did eat and drink with him after he rose again from the dead.\n"

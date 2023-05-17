@@ -19,7 +19,7 @@ const char* chap731 = "For these things, and by the like to these, they have wor
 	"And at a certain time the fire above his power burnt in water on every side, that it might destroy the nation of a wicked land.\n"
 	"For the which things thou didst nourish thy people with the meat of Angels, and bread prepared thou gavest them from heaven without labour, having in it all delectation, and the sweetness of all taste.\n"
 	"For thy substance did shew thy sweetness which thou hast toward thy children, and serving every man's will, it was turned to that, that every man would.\n"
-	"Yea snow and ice sustained the force of fire, and melted not: that they might know that fire burning in hail, and lightning in rain destroyed the fruits of the enemies.\n"
+	"Yea snow and ice sustained the force of fire, and melted not: that they might know that fire burning in hail, and lightening in rain destroyed the fruits of the enemies.\n"
 	"And this again, that the just might be nourished, it forgat also his own strength.\n"
 	"For the creature serving thee the Creator, is fierce into torment against the unjust: and is made more gentle to do good for them, that trust in thee.\n"
 	"For this cause even then being transformed into all things, they served thy grace the nurse of all, at their will that desired thee:\n"

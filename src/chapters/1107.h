@@ -1,7 +1,7 @@
 const char* chap1107 = "AND they came beyond the strait of the sea into the country of the Gerasens.\n"
 	"And as he went out of the boat, immediately there met him out of the sepulchres a man in an unclean spirit,\n"
 	"that had his dwelling in the sepulchres, and neither with chains could any man now bind him:\n"
-	"For being often bound with fetters and chains, he had burst the chains, and broken the fetters, and no body could tame him.\n"
+	"For being often bound with fetters and chains, he had burst the chains, and broken the fetters, and nobody could tame him.\n"
 	"And he was always day and night in the sepulchres and in the mountains, crying and cutting himself with stones.\n"
 	"And seeing JESUS a far off, he ran and adored him:\n"
 	"And crying with a great voice, said: What to me and thee JESUS, the Son of God most high: I adjure thee by God that thou torment me not.\n"
@@ -40,4 +40,4 @@ const char* chap1107 = "AND they came beyond the strait of the sea into the coun
 	"And they derided him. But he having put forth all, taketh the father and the mother of the wench, and them that were with him, and they go in where the wench was lying.\n"
 	"And holding the wench's hand, he saith to her: Talitha cumi, which is being interpreted, wench (I say to thee) arise.\n"
 	"And forthwith the wench rose up, and walked, and she was twelve years old: and they were astonished with great astonishment.\n"
-	"And he commanded them earnestly that no body should know it: and he bade that some thing should be given her to eat.";
+	"And he commanded them earnestly that nobody should know it: and he bade that something should be given her to eat.";

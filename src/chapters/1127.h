@@ -3,7 +3,7 @@ const char* chap1127 = "AND calling together the twelve Apostles, he gave them v
 	"And he said to them: Take nothing for the way, neither rod, nor scrip, nor bread, nor money, neither have two coats.\n"
 	"And into whatsoever house you enter, tarry there, and thence do not depart.\n"
 	"And whosoever shall not receive you, going forth out of that city, shake off the dust also of your feet for a testimony upon them.\n"
-	"And going forth they went a circuit from town to town evangelizing and curing every where.\n"
+	"And going forth they went a circuit from town to town evangelizing and curing every-where.\n"
 	"And Herod the Tetrarch heard all things that were done by him; and he staggered because it was said of some, That John was risen from the dead.\n"
 	"But of other some, That Elias hath appeared; and of others, that a Prophet^ one of the old ones was risen.\n"
 	"And Herod said: John I have beheaded; but who is this of whom I hear such things? And he sought for to see him.\n"

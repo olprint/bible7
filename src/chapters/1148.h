@@ -64,7 +64,7 @@ const char* chap1148 = "AFTER these things JESUS went beyond the sea of Galilee,
 	"It is the spirit that quickeneth, the flesh profiteth nothing. The words that I have spoken to you, be spirit and life.\n"
 	"But there be certain of you that believe not. For JESUS knew from the beginning who they were that did not believe, and who he was that would betray him.\n"
 	"And he said: Therefore did I say to you, that no man can come to me, unless it be given him of my Father.\n"
-	"After this many of his Disciples went back: and now they walked not with him.\n"
+	"After this^ many of his Disciples went back: and now they walked not with him.\n"
 	"JESUS therefore said to the Twelve: What, will you also depart?\n"
 	"Simon Peter therefore answered him: Lord, to whom shall we go? thou hast the words of eternal life.\n"
 	"And we believe and have known that thou art Christ the Son of God.\n"

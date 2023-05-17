@@ -18,7 +18,7 @@ const char* chap1293 = "MY brethren, Have not the faith of our Lord JESUS Christ
 	"But some man saith, Thou hast faith, and I have works: shew me thy faith without works; and I will shew thee by works my faith.\n"
 	"Thou believest that there is one God. Thou doest well: the devils also believe and tremble.\n"
 	"But wilt thou know, o vain man, that faith without works is idle?\n"
-	"Abraham our father^ was he not justified by works, offering Isaac his son upon the altar?\n"
+	"Abraham our father was he not justified by works, offering Isaac his son upon the altar?\n"
 	"Seest thou that faith did work with his works: and by the works the faith was consummate?\n"
 	"And the Scripture was fulfilled, saying, Abraham believed God, and it was reputed him to justice, and he was called the friend of God.\n"
 	"Do you see that by works a man is justified; & not by faith only?\n"

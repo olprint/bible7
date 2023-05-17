@@ -6,7 +6,7 @@ const char* chap18 = "And God appeared to him in the vale of Mambre as he sat in
 	"Abraham made haste into the tent to Sara, and said to her: Make haste, temper together three measures of flour, and make hearth cakes.\n"
 	"But himself ran to the herd, and took from thence a calf very tender and very good, and gave it to a young man: who made haste and boiled it.\n"
 	"He took also butter and milk, and the calf which he had boiled, and set before them: but himself did stand beside them under the tree.\n"
-	"And when they had eaten, they said to him: Where is Sara thy wife? He answered: Lo She is in the tent.\n"
+	"And when they had eaten, they said to him: Where is Sara thy wife? He answered: Lo she is in the tent.\n"
 	"To whom he said: Returning I will come to thee at this time, life accompanying, and Sara thy wife shall have a son. Which when Sara heard, she laughed behind the door of the tent.\n"
 	"And they were both aged, and far entered in years, and it ceased to be with Sara after the manner of women.\n"
 	"Who laughed secretly saying: After I am waxen old, and my Lord is an old one, shall I give myself to pleasure?\n"
@@ -27,7 +27,7 @@ const char* chap18 = "And God appeared to him in the vale of Mambre as he sat in
 	"And Abraham answered, and said: Because I have once begun, I will speak to my Lord, whereas I am dust and ashes.\n"
 	"What if there shall be five less than fifty just persons? Wilt thou for forty five destroy the whole city? And he said: I will not destroy it, if I shall find five and forty.\n"
 	"And again he said unto him: But if forty shall be found there, what wilt thou do? He said: I will not strike it for forty's sake.\n"
-	"Lord, saith he be not angry I beseech thee, if I speak: What if thirty shall be found there? He answered: I will not do it, if I shall find thirty there.\n"
+	"Lord, saith he, be not angry I beseech thee, if I speak: What if thirty shall be found there? He answered: I will not do it, if I shall find thirty there.\n"
 	"Because, saith he, I have once begun, I will speak to my Lord: What if twenty shall be found there? He said: I will not destroy it for twenty's sake.\n"
 	"I beseech thee, saith he, be not angry Lord, if I speak yet once more: What if ten shall be found there? And he said: I will not destroy it for ten's sake.\n"
 	"And our Lord departed after that he ceased to speak unto Abraham: and Abraham returned into his place.";

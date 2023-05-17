@@ -19,7 +19,7 @@ const char* chap422 = "And in the four and twentieth day of the month the childr
 	"But thou in thy many mercies didst not leave them in the desert: the pillar of the cloud departed not from them by day to lead them into the way, and the pillar of fire by night to shew them the way by which they should go.\n"
 	"And thou gavest them thy good spirit, which should teach them, and thy Manna thou didst not withhold from their mouth, and thou gavest them water in thirst.\n"
 	"Forty years didst thou feed them in the desert, and nothing was wanting to them, their garments waxed not old, & their feet were not worn.\n"
-	"And thou gavest them Kingdoms, & peoples, and didst part lots unto them: and they possessed the land of Sehon, and the land of the king Hesebon, an the land of Og the king of Basan.\n"
+	"And thou gavest them Kingdoms, & peoples, and didst part lots unto them: and they possessed the land of Sehon, and the land of the king Hesebon, and the land of Og the king of Basan.\n"
 	"And thou didst multiply their children as the stars of heaven, and brought them to the land whereof thou hadst said to their fathers, that they should enter and possess it.\n"
 	"And the children came, and possessed the land, and thou didst humble before them the inhabiters of the land the Chananeites, and gavest them into their hand, & their kings, & the peoples of the land, that they might do to them as it pleased them.\n"
 	"They therefore took the fenced cities, and fat ground, and possessed houses full of all goods; cisterns made by others, vineyards, and olivets, and many trees that bare fruit: and they did eat, and were filled, and became fat, and abounded with delicious things in thy great goodness,\n"

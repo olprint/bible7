@@ -26,7 +26,7 @@ const char* chap1155 = "AND before the festival day of Pasch, JESUS knowing that
 	"JESUS answered: He it is to whom I shall reach the dipped bread. And when he had dipped the bread, he gave it to Judas Iscariote Simon's son.\n"
 	"And after the morsel, then Satan entered into him. And JESUS saith to him: That which thou doest, do it quickly.\n"
 	"But no man knew of those that sat at table to what purpose he said this unto him.\n"
-	"For certain thought, because Judas had the purse, that JESUS had said to him: Buy those things which are needful for us to the festival day: or that he should give some thing to the poor.\n"
+	"For certain thought, because Judas had the purse, that JESUS had said to him: Buy those things which are needful for us to the festival day: or that he should give something to the poor.\n"
 	"He therefore having received the morsel, incontinent went forth. And it was night.\n"
 	"When he therefore was gone forth, JESUS said: Now the Son of man is glorified, and God is glorified in him.\n"
 	"If God be glorified in him, God also will glorify him in himself, and incontinent will he glorify him.\n"

@@ -31,7 +31,7 @@ const char* chap79 = "But this also shalt thou do, that they may be consecrated 
 	"And thou shalt take the ram of the consecration, & shalt boil the flesh thereof in a holy place;\n"
 	"which Aaron shalt eat and his sons. The loaves also, that are in the basket, they shall eat in the entry of the tabernacle of testimony,\n"
 	"that it may be a placable sacrifice, & the hands of the offerers may be sanctified. A stranger shall not eat of them, because they are holy.\n"
-	"And it there remain of the consecrated flesh, or of the bread till the morning, thou shalt burn the remains with fire: they shall not be eaten, because they are sanctified.\n"
+	"And if there remain of the consecrated flesh, or of the bread till the morning, thou shalt burn the remains with fire: they shall not be eaten, because they are sanctified.\n"
 	"All that I have commanded thee thou shalt do upon Aaron and his sons. Seven days shalt thou consecrate their hands:\n"
 	"& thou shalt offer a calf for sin every day for expiation. And thou shalt cleanse the Altar when thou hast offered the host of expiation, and shalt anoint it unto sanctification.\n"
 	"Seven days shalt thou expiate the altar and sanctify it, and it shall be most Holy, every one, that shall touch it, shall be sanctified.\n"

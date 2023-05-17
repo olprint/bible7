@@ -8,7 +8,7 @@ const char* chap1171 = "AND the same day there was made a great persecution in t
 	"There was made therefore great joy in that city.\n"
 	"And a certain man named Simon, who before had been in that city a Magician, seducing the nation of Samaria, saying himself to be some great one:\n"
 	"unto whom all harkened from the least to the greatest, saying: This man is the power of God, that is called great.\n"
-	"And they were attent upon him, because a long time he had bewitched them with his magical practises.\n"
+	"And they were attent upon him, because a long time he had bewitched them with his magical practices.\n"
 	"But when they had believed Philippe evangelizing of the Kingdom of God, and of the name of JESUS CHRIST, they were baptized, men and women.\n"
 	"Then Simon also himself believed: & being baptized, he cleaved to Philippe. Seeing also signs and very great miracles to be done, he was astonished with admiration.\n"
 	"And when the Apostles who were in Jerusalem, had heard that Samaria had received the word of God: they sent unto them Peter and John.\n"

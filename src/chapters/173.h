@@ -1,4 +1,4 @@
-const char* chap173 = "If thou go forth to war against thine enemies, and see the horse men and chariots, and the multitude of the adversary’s host greater than thou hast, thou shalt not fear them: because the Lord thy God is with thee, which brought thee out of the Land of Aegypt.\n"
+const char* chap173 = "If thou go forth to war against thine enemies, and see the horse men and chariots, and the multitude of the adversary�s host greater than thou hast, thou shalt not fear them: because the Lord thy God is with thee, which brought thee out of the Land of Aegypt.\n"
 	"And when the battle is now at hand, the Priest shall stand before the army, and shall speak to the people thus:\n"
 	"Hear Israel, you this day join battle against your enemies, let not your heart fear, be not afraid, retire not, neither dread them:\n"
 	"because our Lord your God is in the midst of you, & will fight for you against your adversaries, to deliver you from danger.\n"

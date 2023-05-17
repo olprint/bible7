@@ -10,7 +10,7 @@ const char* chap1189 = "BUT Agrippa said to Paul: Thou art permitted to speak fo
 	"Which also I did at Jerusalem, and many of the saints did I shut up in prisons, having received authority of the chief priests: and when they were put to death, I brought the sentence.\n"
 	"And throughout all the synagogues oftentimes punishing them, I compelled them to blaspheme: and yet more mad against them, I persecuted them even unto foreign cities.\n"
 	"Among which things whiles I went to Damascus with authority and permission of the chief priests,\n"
-	"at mid-day, in the way, I saw (o King) from Heaven a light to have shined round about me and them that were in company with me, above the brightness of the sun.\n"
+	"at mid-day, in the way, I saw (o king) from Heaven a light to have shined round about me and them that were in company with me, above the brightness of the sun.\n"
 	"And when all we were fallen down on the ground, I heard a voice speaking to me in the Hebrew tongue: Saul, Saul, why persecutest thou me? It is hard for thee to kick against the prick.\n"
 	"And I said: Who are thou Lord? And our Lord answered: I am JESUS whom thou doest persecute.\n"
 	"But rise up and stand upon thy feet: for to this end have I appeared to thee, that I may ordain thee a minister and witness of those things which thou hast seen, and of those things wherein I will appear to thee,\n"

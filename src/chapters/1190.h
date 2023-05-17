@@ -14,7 +14,7 @@ const char* chap1190 = "AND after it was decreed that he should sail into Italy,
 	"But not long after, a tempestuous wind that is called Euro-aquilo, drove against it.\n"
 	"And when the ship was caught and could not make way against the wind, giving up the ship to the winds, we were driven,\n"
 	"And running upon a certain Island, that is called Cauda, we could scarce get the cock-boat.\n"
-	"Which being taken up, they used helps, girding the ship, and fearing lest they should fall into the Syrte, letting down the vessel, so were they carried.\n"
+	"Which being taken up, they used helps, girding the ship, and fearing lest they should fall into the Syrt, letting down the vessel, so were they carried.\n"
 	"And when we were mightily tossed with the tempest, the next day they cast forth.\n"
 	"And the third day with their own hands they threw forth the tacklings of the ship.\n"
 	"And neither sun, nor stars appearing for many days, and no small storm being toward, all hope was now taken away of our saving.\n"

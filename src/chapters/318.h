@@ -17,7 +17,7 @@ const char* chap318 = "Naaman the General of the warfare of the king of Syria, w
 	"And Naaman said: As thou wilt, but I beseech thee: grant unto me thy servant, that I may take of the earth the burden of two mules: for thy servant will no more make holocaust or victim to strange gods, but to the Lord.\n"
 	"But this only is it, for which thou shalt beseech the Lord for thy servant: when my master shall go into the temple of Remmon, to adore, and he leaning upon my hand, if I shall adore in the temple of Remmon, he adoring in the same place, that the Lord pardon me thy servant for this thing.\n"
 	"Who said to him: Go in peace. He therefore went from him in the spring time of the earth.\n"
-	"And Giezi the servant of the man of God said: My master hath spared Naaman this Syrian, that he took not of him the things which he brought: Our Lord liveth, I will run after him, and will take some thing of him.\n"
+	"And Giezi the servant of the man of God said: My master hath spared Naaman this Syrian, that he took not of him the things which he brought: Our Lord liveth, I will run after him, and will take something of him.\n"
 	"And Giezi followed at the back of Naaman: whom when he saw running toward him, he lept down from his chariot to meet him, and said: Are all things well?\n"
 	"And he said: Well. My master hath sent me to thee, saying: Even now there are come to me two young men from mount Ephraim, of the children of the Prophets: give them a talent of silver, and two change of raiment.\n"
 	"And Naaman said: It is better that thou take two talents. And he forced him, and bound the two talents of silver in two bags, and the double raiment, and laid it upon two of his servants, who also carried it before him.\n"

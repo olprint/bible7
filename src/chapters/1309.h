@@ -3,7 +3,7 @@ const char* chap1309 = "WHOSOEVER believeth that JESUS is Christ, is born of God
 	"For this is the charity of God, that we keep his commandments: and his commandments are not heavy.\n"
 	"Because all that is born of God, overcometh the world: And this is the victory which overcometh the world, our faith.\n"
 	"Who is he that overcometh the world, but he that believeth that JESUS is the Son of God?\n"
-	"This is he that came by water & blood JESUS Christ: not in water only, but in water and blood. And it is the Spirit which testifieth, that Christ is the truth.\n"
+	"This is he that came by water & blood^ JESUS Christ: not in water only, but in water and blood. And it is the Spirit which testifieth, that Christ is the truth.\n"
 	"For there be three which give testimony in heaven, the Father, the Word, and the Holy Ghost. And these three be one.\n"
 	"And there be three which give testimony in earth: the spirit, water, and blood: and these three be one.\n"
 	"If we receive the testimony of men, the testimony of God is greater. Because this is the testimony of God which is greater, that he hath testified of his Son.\n"

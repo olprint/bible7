@@ -17,7 +17,7 @@ const char* chap1094 = "THE Kingdom of Heaven is like to a man that is an househ
 	"And JESUS going up to Jerusalem, took the twelve Disciples secretly, and said to them:\n"
 	"Behold we go up to Jerusalem, and the Son of man shall be delivered to the chief Priests and to the Scribes, and they shall condemn him to death,\n"
 	"and shall deliver him to the Gentiles to be mocked, and scourged, and crucified, and the third day he shall rise again.\n"
-	"Then came to him the mother of the sons of Zebedee with her sons, adoring and desiring some thing of him.\n"
+	"Then came to him the mother of the sons of Zebedee with her sons, adoring and desiring something of him.\n"
 	"Who said to her: What wilt thou? She saith to him: Say that these my two sons may sit, one at thy right hand, & one at thy left hand in thy Kingdom.\n"
 	"And JESUS answering, said: You know not what you desire. Can you drink of the cup that I shall drink of? They say to him: We can.\n"
 	"He saith to them: My cup indeed you shall drink of: but to sit at my right hand and left, is not mine to give to you: but to whom it is prepared of my Father.\n"

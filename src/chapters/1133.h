@@ -13,7 +13,7 @@ const char* chap1133 = "AND there approached Publicans and sinners unto him for 
 	"And not many days after^ the younger son gathering all his things together went from home into a far country: and there he wasted his substance, living riotously.\n"
 	"And after he had spent all, there fell a sore famine in that country, and he began to be in need.\n"
 	"And he went, and cleaved to one of the citizens of that country. And he sent him into his farm to feed swine.\n"
-	"And he would fain have filled his belly of the husks that the swine did eat; and no body gave unto him.\n"
+	"And he would fain have filled his belly of the husks that the swine did eat; and nobody gave unto him.\n"
 	"And returning to himself he said: How many of my father's hirelings have aboundance of bread, and I here perish for famine?\n"
 	"I will arise, and will go to my father, and say to him: Father, I have sinned against Heaven and before thee:\n"
 	"I am not now worthy to be called thy son: make me as one of thy hirelings.\n"

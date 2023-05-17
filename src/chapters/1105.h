@@ -24,7 +24,7 @@ const char* chap1105 = "AND he entered again into the Synagogue, and there was a
 	"And if a Kingdom be divided against itself, that Kingdom cannot stand.\n"
 	"And if a house be divided against itself, that house cannot stand.\n"
 	"And if Satan be risen against himself, he is divided, and cannot stand, but hath an end.\n"
-	"No body can rifle the vessel of the strong, being entered into his house, unless he first bind the strong, & then shall he rifle his house.\n"
+	"Nobody can rifle the vessel of the strong, being entered into his house, unless he first bind the strong, & then shall he rifle his house.\n"
 	"Amen I say to you, that all sins shall be forgiven the sons of men, & the blasphemies wherewith they shall blaspheme:\n"
 	"But he that shall blaspheme against the Holy Ghost, he hath not forgiveness for ever, but shall be guilty of an eternal sin. Because they said: He hath an unclean spirit.\n"
 	"And there come his mother and brethren; and standing without they sent unto him calling him,\n"

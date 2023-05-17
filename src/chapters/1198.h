@@ -1,6 +1,6 @@
 const char* chap1198 = "ARE you ignorant, brethren, (for I speak to them that know the Law) that the Law hath dominion over a man as long time as he liveth?\n"
 	"For the woman that is under a husband; her husband living is bound to the law. But if her husband be dead, she is loosed from the law of her husband.\n"
-	"Therefore her husband living, she shall be called an adulteress if she be with another man: but if her husband be dead she is delivered from the law of her husband: so that she is not and adulteress if she be with another man.\n"
+	"Therefore her husband living, she shall be called an adulteress if she be with another man: but if her husband be dead^ she is delivered from the law of her husband: so that she is not and adulteress if she be with another man.\n"
 	"Therefore my brethren you also are made dead to the Law by the body of Christ; that you may be another man's who is risen again from the dead, that we may fructify to God.\n"
 	"For when we were in the flesh, the passions of sins that were by the Law, did work in our members, to fructify unto death.\n"
 	"But now we are loosed from the law of death wherein we were detained: in so much we serve in newness of spirit, and not in the oldness of the letter.\n"

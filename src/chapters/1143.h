@@ -26,7 +26,7 @@ const char* chap1143 = "In the beginning was the WORD, and the WORD was with God
 	"John answered them, saying: I baptize in water; but there hath stood in the midst of you whom you know not.\n"
 	"The same is he that shall come after me, that is made before me; whose latchet of his shoe I am not worthy to loose.\n"
 	"These things were done in Bethania beyond Jordan, where John was baptizing.\n"
-	"The next day John saw JESUS coming to him, and he saith: Behold the lamb of God, behold him that taketh away the sin, of the world.\n"
+	"The next day John saw JESUS coming to him, and he saith: Behold the lamb of God, behold him that taketh away the sin of the world.\n"
 	"This is he of whom I said: After me there cometh a man, which is made before me: because he was before me.\n"
 	"And I knew him not, but that he may be manifested in Israel, therefore came I baptizing in water.\n"
 	"And John gave testimony, saying: That I saw the Spirit descending as a dove from Heaven, and he remained upon him.\n"

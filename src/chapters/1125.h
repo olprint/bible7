@@ -11,7 +11,7 @@ const char* chap1125 = "AND when he had fully said all his words into the ears o
 	"And it came to pass, afterward he went into a city that is called Naim; and there went with him his Disciples and a very great multitude.\n"
 	"And when he came nigh to the gate of the city, behold a dead man was carried forth, the only son of his mother; and she was a widow: and a great multitude of the city with her.\n"
 	"Whom when our Lord had seen, being moved with mercy upon her, he said to her: Weep not.\n"
-	"And he came near and touched the coffin. And they that carried it stood still; and he said: Yong man, I say to thee, arise.\n"
+	"And he came near and touched the coffin. And they that carried it stood still; and he said: Young man, I say to thee, arise.\n"
 	"And he that was dead, sat up, and began to speak. And he gave him to his mother.\n"
 	"And fear took them all; and they magnified God, saying, That a great Prophet is risen among us: and, that God hath visited his people.\n"
 	"And this saying went forth into all Jewry of him, & into all the country about.\n"

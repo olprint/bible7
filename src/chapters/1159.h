@@ -1,6 +1,6 @@
 const char* chap1159 = "THESE things spake JESUS: and lifting up his eyes into Heaven, he said: Father, the hour is come, glorify thy Son, that thy Son may glorify thee.\n"
 	"As thou hast given him power over all flesh, that all which thou hast given him, to them he may give life everlasting.\n"
-	"And this is life everlasting that they know thee, the only true God, and whom thou hast sent JESUS CHRIST.\n"
+	"And this is life everlasting^ that they know thee, the only true God, and whom thou hast sent JESUS CHRIST.\n"
 	"I have glorified thee upon the earth: I have consummated the work which thou gavest me to do:\n"
 	"and now glorify thou me O Father with thyself, with the glory which I had before the world was, with thee.\n"
 	"I have manifested thy name to the men whom thou gavest me out of the world. Thine they were, and to me thou gavest them: and they have kept thy word.\n"

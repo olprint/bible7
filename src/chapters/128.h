@@ -31,4 +31,4 @@ const char* chap128 = "In the mean time there arose a murmuring of the people, a
 	"And a wind coming forth from our Lord, taking quails over the sea brought them, and let them fall into the camp the space of one day's journey, on every side of the camp round about, and they did fly in the air two cubits high over the earth.\n"
 	"The people therefore rising up all that day, and the night, and the next day, gathered together a multitude of quails, he that did least, ten cores: and they dried them round about the camp.\n"
 	"As yet the flesh was in their teeth, neither had that kind of meat failed: & behold the fury of our Lord being provoked against the people, struck them with an exceeding great plague.\n"
-	"And that place was called The Sepulchres of concupiscence: for there they buried the people that had lusted. And departing from the Sepulchres of concupiscence, they came unto Haseroth, and tarried there.";
+	"And that place was called, The Sepulchres of concupiscence: for there they buried the people that had lusted. And departing from the Sepulchres of concupiscence, they came unto Haseroth, and tarried there.";
