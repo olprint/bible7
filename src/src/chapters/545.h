@@ -1,0 +1,11 @@
+const char* chap545 = "To David himself understanding. Blessed are they, whose iniquities are forgiven: and whose sins be covered.\n"
+	"Blessed is the man, to whom our Lord hath not imputed sin, neither is there guile in his spirit.\n"
+	"Because I held my peace, my bones are inveterated, whilst I cried all the day.\n"
+	"Because day & night thy hand is made heavy upon me: I am turned in my anguish, whilst the thorn is fastened.\n"
+	"I have made my sin known to thee: and my injustice I have not hid. I said: I will confess against me my injustice to our Lord: and thou hast forgiven the impiety of my sin.\n"
+	"For this shall every holy one pray to thee, in time convenient. But yet in the flood of many waters, they shall not approach to him.\n"
+	"Thou art my refuge from tribulation, which hath compassed me: my exultation, deliver me from them that compass me.\n"
+	"I will give thee understanding, and will instruct thee in the way, that thou shalt go: I will fasten mine eyes upon thee.\n"
+	"Do not become as horse and mule, which have no understanding. In bit and bridle bind fast their cheeks that approach not to thee.\n"
+	"Many are the scourges of a sinner, but him that hopeth in our Lord mercy shall compass.\n"
+	"Be joyful in our Lord and rejoice ye just, and glory all ye right of heart.";

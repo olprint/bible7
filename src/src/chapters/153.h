@@ -1,0 +1,13 @@
+const char* chap153 = "And the Princes also of the families of Galaad, the son of Machir, the son of Manasses of the stock of the children of Joseph came, and spake to Moyses before the Princes of Israel, and said:\n"
+	"Our Lord hath commanded thee our lord that thou shouldest by lot divide the Land to the children of Israel, and that to the daughters of Salphaad our brother thou shouldest give the possession due to their father:\n"
+	"Whom if men of another tribe take to wives, their possession shall follow, and being translated to another tribe, it shall be a diminishing of our inheritance.\n"
+	"And so it shall come to pass, that when the Jubilee, that is the fiftieth year of remission is come, the distribution of the lots shall be confounded, and the possession of one shall pass to others.\n"
+	"Moyses answered the children of Israel, and as our Lord commanded, said: The tribe of the children of Joseph hath spoken rightly.\n"
+	"And this law is promulgated of our Lord touching the daughters of Salphaad: Let them marry to whom they will, only that it be to the men of their own tribe:\n"
+	"lest the possession of the children of Israel be mingled from tribe into tribe. For all men shall marry wives of their own tribe and kindred:\n"
+	"and all women shall take husbands of the same tribe: that the inheritance may remain in the families,\n"
+	"and that the tribes be not mingled among themselves, but remain so\n"
+	"as they were separated by our Lord. And the daughters of Salphaad did as it had been commanded:\n"
+	"and Maala, and Thersa, and Hegla, and Melcha, and Noa were married to the sons of their uncle by their father,\n"
+	"of the family of Manasses, who was the son of Joseph: and the possession, that had been allotted to them, remained in the tribe and family of their father.\n"
+	"These are the commandments and judgments, which our Lord commanded by the hand of Moyses to the children of Israel, in the champion countries of Moab upon Jordan against Jericho.";

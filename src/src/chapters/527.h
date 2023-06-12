@@ -1,0 +1,7 @@
+const char* chap527 = "Unto the end, a Psalm of David. The fool hath said in his heart: There is no God. They are corrupt, and are become abominable in their studies: there is not that doth good^ no not one.\n"
+	"Our Lord hath looked forth from heaven upon the children of men, to see if there be that understandeth, and seeketh after God.\n"
+	"All have declined, they are become unprofitable together: there is not that doth good, no not one. Their throat is an open sepulchre, with their tongues they did deceitfully, the poison of asps under their lips. Whose mouth is full of cursing and bitterness: their feet swift to shed blood. Destruction and infelicity in their ways, and the way of peace they have not known: there is no fear of God before their eyes.\n"
+	"Shall not all they know that work iniquity, that devour my people as food of bread?\n"
+	"They have not invocated our Lord, there have they trembled for fear, where no fear was.\n"
+	"Because our Lord is in the just generation, you have confounded the counsel of the poor man: because our Lord is his hope.\n"
+	"Who will give from Sion the salvation of Israel? When our Lord shall have turned away the captivity of his people, Jacob shall rejoice, and Israel shall be glad.";

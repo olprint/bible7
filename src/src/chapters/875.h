@@ -1,0 +1,10 @@
+const char* chap875 = "Our Lord shewed me: & behold two baskets full of figs, set before the temple of our Lord: after that Nabuchodonosor king of Babylon transported Jechonias the son of Joakim the king of Juda, and his Princes, and the craftsman, & incloser of Jerusalem, and had brought them into Babylon.\n"
+	"One basket had very good figs: as the figs of the prime time are wont to be: and one basket had very naughty figs, which could not be eaten, because they were naught.\n"
+	"And our Lord said to me: What seest thou Jeremy? And I said: Figs: the good figs, exceeding good, and the naughty figs, exceeding naught: which cannot be eaten because they are naught.\n"
+	"And the word of our Lord was made to me, saying:\n"
+	"Thus saith our Lord the God of Israel: As are these good figs: so will I know the transmigration of Juda, which I have sent forth out of this place into the land of Chaldees, unto good.\n"
+	"And I will set mine eyes upon them to be pacified, and I will bring them again into this land: and I will build them, and not destroy: and I will plant them and not pluck them up.\n"
+	"And I will give them an heart to know me, that I am the Lord: and they shall be my people, & I will be their God: because they shall return to me in all their heart.\n"
+	"And as are the very naughty figs, that cannot be eaten, because they are naught: thus saith our Lord, so will I give Sedecias the king of Juda: and his Princes, and the rest of Jerusalem, that have remained in this city, and that dwell in the Land of Aegypt.\n"
+	"And I will give them into vexation, and affliction, to all the kingdoms of the earth: into reproach, and to be a parable, and into a proverb, and into malediction in all places, to which I have cast them out.\n"
+	"And I will send among them the sword, famine, and pestilence: till they be consumed out of the land, which I gave them, and their fathers.";

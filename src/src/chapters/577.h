@@ -1,0 +1,11 @@
+const char* chap577 = "Unto the end, a Psalm of David.\n"
+	"Hear o God my prayer when I make petition: from the fear of my enemy deliver my soul.\n"
+	"Thou hast protected me from the assembly of the malignant: from the multitude of them that work iniquity.\n"
+	"Because they have sharpened their tongues as a sword: they have bent the bow a bitter thing,\n"
+	"that they may shoot in secrets at the immaculate.\n"
+	"Suddenly they will shoot at him, and will not fear: they have confirmed to themselves a wicked word. They have talked to hide snares: they have said, Who shall see them?\n"
+	"They have searched iniquities: they have failed searching with scrutiny.\n"
+	"Man shall come to a deep heart: and God shall be exalted. Children's arrows are made their wounds:\n"
+	"and their tongues are weakened against them. All that saw them were troubled:\n"
+	"and every man feared. And they shewed forth the works of God: and they understood his doings.\n"
+	"The just shall rejoice in our Lord, and shall hope in him, & all the right of heart shall be praised.";

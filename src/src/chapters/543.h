@@ -1,0 +1,13 @@
+const char* chap543 = "A Psalm of Canticle, in the dedication of David's house.\n"
+	"I will exalt thee, o Lord because thou hast received me: neither hast delighted mine enemies over me.\n"
+	"O Lord my God I have cried to thee, and thou hast healed me.\n"
+	"Lord thou hast brought forth my soul out of hell: thou hast saved me from them that go down into the lake.\n"
+	"Sing to our Lord ye his Saints: and confess to the memory of his holiness.\n"
+	"Because wrath is in his indignation: and life in his will. At evening shall weeping abide: and in the morning gladness.\n"
+	"And I said in my aboundance: I will not be moved for ever.\n"
+	"O Lord in thy will thou hast given strength to my beauty. Thou hast turned away thy face from me, and I became troubled.\n"
+	"To thee o Lord I will cry: and I will pray to my God.\n"
+	"What profit is in my blood, whilst I descend into corruption? Shall dust confess to thee, or declare thy truth?\n"
+	"Our Lord hath heard, and had mercy on me: our Lord is become my helper.\n"
+	"Thou hast turned my mourning into joy unto me: thou hast cut my sackcloth, and hast compassed me with gladness.\n"
+	"That my glory may sing to thee, and I be not compunct: Lord my God for ever will I confess to thee.";

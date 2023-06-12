@@ -1,0 +1,13 @@
+const char* chap592 = "A Psalm to Asaph. O God the Gentiles are come into thine inheritance, they have polluted thy holy temple: they have made Jerusalem as a watch tower of fruits.\n"
+	"They have made the carcasses of thy servants, meats for the fowls of the air: the flesh of thy Saints for the beasts of the land.\n"
+	"They have poured out their blood as water round about Jerusalem: and there was none to bury them.\n"
+	"We are become a reproach to our neighbours: a scorn and mock to them that are round about us.\n"
+	"How long, o Lord, wilt thou be angry for ever: shall thy zeal be kindled as a fire?\n"
+	"Pour out thy wrath upon the Gentiles, that have not known thee: & upon the Kingdoms, that have not invocated thy name.\n"
+	"Because they have devoured Jacob: and his place they have made desolate.\n"
+	"Remember not our old iniquities, let thy mercies quickly prevent us: because we are become exceeding poor.\n"
+	"Help us, o God our Saviour: and for the glory of thy name o Lord deliver us: and be propitious to our sins for thy name's sake.\n"
+	"Lest they say perhaps amongst the Gentiles: where is their God? And be notified in the nations before our eyes. The revenge of the blood of thy servants, which hath been shed:\n"
+	"let the groaning of the fettered enter in thy sight. According to the greatness of thine arm possess thou the children of them that are put to death.\n"
+	"And render to our neighbours sevenfold in their bosom: their reproach wherewith they have reproached thee, o Lord.\n"
+	"But we thy people, and the sheep of thy pasture, will confess to thee for ever. Unto generation and generation we will shew forth thy praise.";

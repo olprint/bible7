@@ -1,0 +1,13 @@
+const char* chap840 = "All ye that thirst come to the waters: and you that have no silver, make haste, buy, & eat: come, buy without silver, and without any exchange wine and milk.\n"
+	"Why bestow you silver not for bread, & your labour not for satiety? Hearing hear ye me, and eat that which is good, and your soul shall be delighted in fatness.\n"
+	"Incline your ear, & come to me: hear, and your soul shall live, and I will make an everlasting covenant with you, the faithful mercies of David.\n"
+	"Behold I have given him for a witness to the peoples, for a Prince and master to the Gentiles.\n"
+	"Behold thou shalt call the nation, which thou knowest not: and the nations that knew not thee shall run to thee, because of the Lord thy God, and the holy one of Israel: because he hath glorified thee.\n"
+	"Seek ye our Lord whilst he may be found, invocate him, whilst he is near.\n"
+	"Let the impious forsake his way, and the unjust man his cogitations, and return to our Lord, and he will have mercy on him: and to our God, because he is bountiful to forgive.\n"
+	"For my cogitations are not your cogitations: nor your ways my ways, saith our Lord.\n"
+	"For as the heavens are exalted above the earth, so are my ways exalted above your ways, & my cogitations above your cogitations.\n"
+	"And as the shower cometh down, and the snow from heaven, and returneth no more thither, but inebriateth the earth, and watereth it, and maketh it to spring, and giveth seed to the sower, and bread to him that eateth:\n"
+	"so shall my word be, which shall proceed from my mouth: it shall not return to me void, but it shall do what things soever I would, and shall prosper in these things for which I sent it.\n"
+	"Because you shall go forth in joy, and in peace shall you be conducted, the mountains and the little hills shall sing praise before you, and all the woods of the country shall clap the hand.\n"
+	"For the shrub, shall come up the fir tree, and for the nettle, shall grow the myrtle tree: and our Lord shall be named for an everlasting sign, that shall not be taken away.";

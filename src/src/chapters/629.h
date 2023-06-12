@@ -1,0 +1,10 @@
+const char* chap629 = "Alleluia. I believed, for which cause I spake: but I was humbled exceedingly.\n"
+	"I said in mine excess: Every man is a liar.\n"
+	"What shall I render to our Lord, for all things that he hath rendered to me?\n"
+	"I will take the chalice of salvation: and I will invocate the name of our Lord.\n"
+	"I will render my vows to our Lord before all his people:\n"
+	"precious in the sight of our Lord is the death of his Saints.\n"
+	"O Lord because I am thy servant: I am thy servant, and the son of thy handmaid. Thou hast broken my bonds:\n"
+	"I will sacrifice to thee the host of praise, and I will invocate the name of our Lord.\n"
+	"I will render my vows to our Lord in the sight of all his people:\n"
+	"in the courts of the house of our Lord, in the midst of thee, o Jerusalem.";

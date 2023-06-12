@@ -1,0 +1,10 @@
+const char* chap518 = "Unto the end in songs, the Psalm of David.\n"
+	"When I invocated, the God of my justice heard me: in tribulation thou hast enlarged to me. Have mercy on me, and hear my prayer.\n"
+	"Ye sons of men how long are you of heavy heart? Why love you vanity, and seek lying?\n"
+	"And know ye that our Lord hath made his holy one marvelous: our Lord will hear me, when I shall cry to him.\n"
+	"Be ye angry, and sin not: the things that you say in your hearts, in your chambers be ye sorry for.\n"
+	"Sacrifice ye the sacrifice of justice, and hope in our Lord. Many say: Who sheweth us good things?\n"
+	"The light of thy countenance, o Lord is signed upon us: thou hast given gladness in my heart.\n"
+	"By the fruit of their corn, and wine, and oil, they are multiplied.\n"
+	"In peace in the self same I will sleep, and rest:\n"
+	"Because thou Lord hast singularly settled me in hope.";

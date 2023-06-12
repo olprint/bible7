@@ -1,0 +1,11 @@
+const char* chap923 = "And he cried in mine ears with a loud voice, saying: The visitations of the city approach, and every one hath a weapon of slaughter in his hand.\n"
+	"And behold six men came from the way of the upper gate, which looketh to the North: and every man's weapon of destruction in his hand: one man also in the midst of them was clothed with linen garments, and the ink-horn of a writer at his reins: and they entered in, and stood by the brazen altar.\n"
+	"And the glory of the Lord of Israel was taken up from the Cherub, which was over him to the threshold of the house: and he called the man, that was clothed with the linen garments, and had the ink-horn of a writer on his loins.\n"
+	"And our Lord said to him: Pass through the midst of the city in the midst of Jerusalem: and sign Thau upon the foreheads of the men that mourn and lament upon all the abominations, that are done in the midst thereof.\n"
+	"And to them he said in my hearing: Pass through the city following him, and strike: let not your eye spare, neither have ye mercy.\n"
+	"The old, the young man, and the virgin, the little one, and the women kill to utter destruction: but every one upon whom you shall see Thau, kill not, and begin ye at my Sanctuary: They began therefore at the ancient men, which were before the face of the house.\n"
+	"And he said to them: Contaminate the house, and fill the courts with the slain: go ye forth. And they went forth, and struck them that were in the city.\n"
+	"And the slaughter being accomplished I remained: and I fell upon my face, and crying: I said Alas, alas, alas o Lord God, wilt thou then destroy all the remnant of Israel, pouring out thy fury upon Jerusalem?\n"
+	"And he said to me: The iniquity of the house of Israel, and Juda is exceeding great, and the land is replenished with blood, and the city is replenished with aversion: for they have said: Our Lord hath forsaken the earth, and our Lord seeth not.\n"
+	"Therefore mine eye also shall not spare, neither will I have mercy: I will requite their way upon their head.\n"
+	"And behold the man, that was clothed with the linen garments, that had the ink-horn at his back, answered a word, saying: I have done as thou hast commanded me.";

@@ -1,0 +1,13 @@
+const char* chap575 = "Unto the end, for Idithun a Psalm of David.\n"
+	"Shall not my soul be subject to God? For of him is my salvation.\n"
+	"For he is my God, and my saviour: my receiver, I shall be moved no more.\n"
+	"How long set you violently upon a man: you all do kill, as it were upon a wall that is leaning, and a wall shaken.\n"
+	"But yet they thought to repel my price. I ran in thirst: they blessed with their mouth, and cursed with their heart.\n"
+	"But yet my soul be thou subject to God: because my patience is from him.\n"
+	"Because he is my God, and my saviour: my helper I shall not remove.\n"
+	"In God is my salvation, and my glory: the God of my help, and my hope is in God.\n"
+	"Hope in him all ye the congregation of people: pour out your hearts before him: God is our helper for ever.\n"
+	"But yet the children of men are vain, the children of men are liars in balances: that they may deceive by vanity together.\n"
+	"Hope not in iniquity, and covet not robberies: if riches abound set not your heart upon them.\n"
+	"Once hath God spoken, these two things have I heard:\n"
+	"That power is God's, and mercy, o Lord, is to thee: because thou wilt render to every one according to his works.";

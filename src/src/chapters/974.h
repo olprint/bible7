@@ -1,0 +1,13 @@
+const char* chap974 = "BUT in that time shall rise up Michael the great prince, who standeth for the children of thy people: and a time shall come such as hath not been from the time since nations began even until that time. And in that time shall thy people be saved, every one that shall be found written in the book.\n"
+	"And many of those, that sleep in the dust of the earth, shall awake: some unto life everlasting, & others unto reproach to see it always.\n"
+	"But they that be learned shall shine as the brightness of the firmament: and they that instruct many to justice, as stars unto perpetual eternities.\n"
+	"But thou Daniel shut up the words, and seal the book, even to the time appointed: very many shall pass over, and there shall be manifest knowledge.\n"
+	"And I^ Daniel saw, and behold there stood as it were two others: one on this side upon the bank of the river, and another on that side, on the other bank of the river.\n"
+	"And I said to the man, that was clothed with linen garments, that stood upon the waters of the river: How long the end of these marvels?\n"
+	"And I heard the man, that was clothed with the linen garments, that stood upon the waters of the river, when he had lifted up his right hand, & his left hand unto heaven, and had sworn by him that liveth for ever, that unto a time, & times, & the half of a time. And when the dispersion of the hand of the holy people shall be accomplished, all these things shall be accomplished.\n"
+	"And I heard, & understood not. And I said: My Lord, what shall be after these things?\n"
+	"And he said: Go Daniel, because the words are shut up, and sealed until the prefixed time.\n"
+	"Many shall be chosen, and made white, & shall be tried as fire: and the impious shall do impiously, neither shall all the impious understand, but the learned shall understand.\n"
+	"And from the time when the continual sacrifice shall be taken away, and the abomination to desolation shall be set up, a thousand two hundred ninety days.\n"
+	"Blessed is he that expecteth, and cometh unto days a thousand three hundred thirty five.\n"
+	"But thou go, until the time prefixed: and thou shalt rest, and stand in thy lot unto the end of the days.";
