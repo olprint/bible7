@@ -6,7 +6,7 @@ const char* chap196 = "Which things being heard, all the kings beyond Jordan, th
 	"and they went on to Josue, who then abode in the camp at Galgal, and said to him, and withal to all Israel: We are come from a far country, desirous to make peace with you. And the children of Israel answered them, and said:\n"
 	"Lest perhaps you dwell in the Land which is due to us by lot, and we cannot enter a league with you.\n"
 	"But they said to Josue: We are thy servants. To whom Josue said: Who are you? & whence came you?\n"
-	"They answered: From a very far country are thy servants come, in the name of the Lord thy God. For we have heard the same of his might, all things that he did in Aegypt,\n"
+	"They answered: From a very far country are thy servants come, in the name of the Lord thy God. For we have heard the fame of his might, all things that he did in Aegypt,\n"
 	"and to the two kings of the Amorrheites that were beyond Jordan, Sehon the king of Hesebon, and Og the king of Basan, that were in Astaroth,\n"
 	"and our ancients, and all the inhabitants of our Land said to us: Take in your hands victuals for a very long way, and go meet them, and say: We are your servants, enter a league with us.\n"
 	"Behold, these loaves we took hot, when we departed from our houses to come to you, now they are become dry, and broken for over-much oldness.\n"
