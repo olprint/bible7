@@ -1,0 +1,13 @@
+const char* chap589 = "Unto the end, in praises, a Psalm to Asaph, a Canticle to the Assyrians.\n"
+	"God is known in Jewry: in Israel his name is great.\n"
+	"And his place is made in peace; and his habitation in Sion.\n"
+	"There he brake the powers of bows, the shield, the sword, and the battle.\n"
+	"Thou doest illuminate marvelously from the eternal mountains:\n"
+	"all the foolish of heart were troubled. They slept their sleep: and all the men of riches found nothing in their hands.\n"
+	"At thy reprehension, o God of Jacob, they have all slumbered that mounted on horses.\n"
+	"Thou art terrible, and who shall resist thee? From that time thy wrath.\n"
+	"From heaven thou hast made thy judgment heard: the earth trembled and was quiet.\n"
+	"When God arose unto judgment, that he might save all the meek of the earth.\n"
+	"Because the cogitation of man shall confess to thee: and the remains of the cogitation shall keep festival day to thee.\n"
+	"Vow ye and render to our Lord your God: all ye that round about him bring gifts. To the terrible,\n"
+	"and him that taketh away the spirit of Princes, terrible to the kings of the earth.";

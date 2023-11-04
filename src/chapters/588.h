@@ -1,0 +1,11 @@
+const char* chap588 = "Unto the end, Corrupt not, a Psalm of Canticle to Asaph.\n"
+	"We will confess to thee, o God: we will confess, and will invocate thy name. We will tell thy marvelous works:\n"
+	"when I shall take a time, I will judge justices.\n"
+	"The earth is melted, and all that dwell in it: I have confirmed the pillars thereof.\n"
+	"I said to the wicked: Do not wickedly; and to them that offend: Exalt not the horn.\n"
+	"Exalt not your horn on high: speak not iniquity against God.\n"
+	"For neither from the East, nor from the West, nor from the desert mountains:\n"
+	"because God is Judge. This man he humbleth, and him he exalteth:\n"
+	"because there is a cup in the hand of our Lord of mere wine full of mixture. And he hath poured it out of this into that, but yet the dregs thereof are not emptied: all the sinners of the earth shall drink.\n"
+	"But I will shew forth for ever: I will sing to the God of Jacob.\n"
+	"And I will break all the horns of sinners: and the horns of the just shall be exalted.";

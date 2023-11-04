@@ -1,0 +1,13 @@
+const char* chap228 = "There was at that time a certain man of mount Ephraim named Michas,\n"
+	"who said to his mother: The thousand and hundred silver pieces, which thou hadst separated to thyself, and concerning the which thou didst swear in my hearing, behold I have, and they are with me. To whom she said: Blessed be my son to the Lord.\n"
+	"He therefore rendered them to his mother, who had said to him: I have consecrated and vowed this silver to the Lord, that my son may receive it of my hand, & make a graven and a molten (god) & now I deliver that to thee.\n"
+	"He rendered them therefore to his mother: who took two hundred silver pieces and gave them to the silversmith, that he might make of them a graven and a molten (god) which was in the house of Michas.\n"
+	"Who separated also therein a little house of the god, and made an Ephod, and Theraphim, that is to say, a priestly vestment, and idols: and he filled the hand of one of his sons, and he became his priest.\n"
+	"In those days there was not a king in Israel, but every one did that which seemed right to himself.\n"
+	"There was also another young man of Bethlehem Juda, of the kindred thereof: & he was a Levite, and dwelt there.\n"
+	"And going forth out of the city of Bethlehem, he would sojourn wheresoever he should find it commodious for him. And when he was come into mount Ephraim, making his journey, and had turned aside a little into the house of Michas,\n"
+	"he was demanded of him whence he came. Who answered: I am a Levite of Bethlehem Juda, and I go to dwell where I shall be able, and shall perceive it to be profitable for me.\n"
+	"And Michas said: Abide with me, and be to me a father and a priest, and I will give thee every year ten silver pieces, and a double livery, and the things that be necessary for victual.\n"
+	"He was content, and abode with the man, and was unto him as one of his sons.\n"
+	"And Michas filled his hand, and had the young man for a Priest with him, saying:\n"
+	"Now I know that God will do me good having a Priest of the Levitical kind.";

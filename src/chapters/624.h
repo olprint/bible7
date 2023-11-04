@@ -1,0 +1,10 @@
+const char* chap624 = "Alleluia. I will confess to thee, o Lord, with all my heart: in the counsel of the just, and the congregation.\n"
+	"The works of our Lord are great: exquisite according to all his wills.\n"
+	"Confession and magnificence his work: and his justice continueth for ever and ever.\n"
+	"He hath made a memory of his marvelous works; a merciful & pitiful Lord:\n"
+	"he hath given meat to them that fear him. He will be mindful for ever of his testament:\n"
+	"the force of his works he will shew forth to his people:\n"
+	"To give them the inheritance of the gentiles: the works of his hands truth and judgment.\n"
+	"All his commandments are faithful: confirmed for ever and ever, made in truth and equity.\n"
+	"He sent redemption to his people: he commanded his testament for ever. Holy and terrible is his name:\n"
+	"the fear of our Lord is the beginning of wisdom. Understanding is good to all that do it: his praise remaineth for ever and ever.";

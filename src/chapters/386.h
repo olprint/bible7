@@ -1,0 +1,11 @@
+const char* chap386 = "And Josaphat the king of Juda returned into his house peaceably, into Jerusalem.\n"
+	"Whom Jehu the son of Hanani the Seer met, and said to him: To the impious man thou givest aid, and to them that hate our Lord thou art joined in friendship, and therefore thou didst deserve indeed the wrath of our Lord:\n"
+	"but good works are found in thee, for that thou hast taken away the groves out of the land of Juda, and hast prepared thy heart to seek our Lord the God of thy fathers.\n"
+	"Josaphat therefore dwelt in Jerusalem: and he went forth to the people again from Bersabee unto mount Ephraim, and recalled them to our Lord the God of their fathers.\n"
+	"And he appointed judges of the land in all the fenced cities of Juda, in every place,\n"
+	"and commanding the judges, he said: Take heed what you do: for you exercise not judgment of man, but of our Lord: and whatsoever you shall judge, it shall redound to you.\n"
+	"Let the fear of our Lord be with you, and with diligence do all things: for there is no iniquity with the Lord our God, nor acception of persons, nor desire of gifts.\n"
+	"In Jerusalem also Josaphat appointed Levites, and Priests, and Princes of families of Israel, that they should judge the judgement and cause of our Lord to the inhabitants thereof.\n"
+	"And he commanded them, saying: Thus shall you do in the fear of our Lord faithfully, & with a perfect heart.\n"
+	"Every cause, that shall come to you of your brethren, that dwell in their cities, between kindred and kindred, wheresoever there is question of the law, of the commandment, of ceremonies, of justifications: shew it them, that they sin not against our Lord, and lest there come wrath upon you and your brethren: so doing therefore you shall not sin.\n"
+	"And Amarias the Priest and your Bishop shall be chief in these things, which pertain to God: moreover Zabadias the son of Ismahel, who is the Prince in the house of Juda, shall be over those works, which pertain to the king's office: and you have masters the Levites before you, take courage, and do diligently, and our Lord will be with the good.";

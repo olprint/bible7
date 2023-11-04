@@ -1,0 +1,13 @@
+const char* chap597 = "Unto the end, for wine presses, to the children of Core, a Psalm.\n"
+	"How beloved are thy tabernacles, o Lord of hosts!\n"
+	"my soul coveteth and fainteth unto the courts of our Lord. My heart and my flesh have rejoiced toward the living God.\n"
+	"For the sparrow also hath found her an house: and the turtle-dove a nest for herself, where she may lay her young ones. Thine altars, o Lord of hosts: my King, and my God.\n"
+	"Blessed are they that dwell in thy house, o Lord: for ever and ever they shall praise thee.\n"
+	"Blessed is the man, whose help is from thee: he hath disposed ascensions in his heart,\n"
+	"in the vale of tears, in the place which he hath appointed.\n"
+	"For the law-giver shall give blessing, they shall go from virtue into virtue: the God of gods shall be seen in Sion.\n"
+	"Lord God of hosts hear my prayer: receive with thine ear, o God of Jacob.\n"
+	"Behold, o God our protector: and look upon the face of thy Christ.\n"
+	"Because better is one day in thy courts, above thousands. I have chosen to be an abject in the house of my God: rather than to dwell in the tabernacles of sinners.\n"
+	"Because God loveth mercy and truth: our Lord will give grace and glory.\n"
+	"He will not deprive them of good things, that walk in innocency: o Lord of hosts, blessed is the man that hopeth in thee.";

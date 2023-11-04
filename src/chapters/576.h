@@ -1,0 +1,12 @@
+const char* chap576 = "A Psalm of David when he was in the desert of Juda.\n"
+	"O God my God to thee I watch, from the morning light. My soul hath thirsted to thee, my flesh to thee very many ways.\n"
+	"In a desert land, and inaccessible, and without water, so in the holy have I appeared to thee, that I might see thy strength, and thy glory.\n"
+	"Because thy mercy is better than lives, my lips shall praise thee.\n"
+	"So will I bless thee in my life: and in thy name I will lift up my hands.\n"
+	"As with marrow and fatness let my soul be filled: and my mouth shall praise with lips of exultation.\n"
+	"If I have been mindful of thee upon my bed, in the morning I will meditate on thee:\n"
+	"because thou hast been my helper.\n"
+	"And in the covert of thy wings I will rejoice, my soul hath cleaved after thee: thy right hand hath received me.\n"
+	"But they in vain have sought my soul, they shall enter into the inferior parts of the earth.\n"
+	"They shall be delivered into the hands of the sword, they shall be the portions of foxes.\n"
+	"But the king shall rejoice in God, all shall be praised that swear by him: because the mouth is stopped of those that speak wicked things.";

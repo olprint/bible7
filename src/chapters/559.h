@@ -1,0 +1,12 @@
+const char* chap559 = "Unto the end, to the sons of Core, for the secrets.\n"
+	"Our God is a refuge and strength: an helper in tribulations, which have found us exceedingly.\n"
+	"Therefore will we not fear when the earth shall be troubled: and mountains transported into the heart of the sea.\n"
+	"Their waters have sounded, and were troubled: the mountains were troubled in his strength.\n"
+	"The violence of the river maketh the city of God joyful: the Highest hath sanctified his tabernacle.\n"
+	"God is in the midst thereof, it shall not be moved: God will help it in the morning early.\n"
+	"Nations are troubled, and Kingdoms are inclined: he gave his voice, the earth was moved.\n"
+	"The Lord of hosts is with us: the God of Jacob is our defender.\n"
+	"Come ye, & see the works of our Lord, what wonders he hath put upon the earth:\n"
+	"taking away wars even unto the end of the earth. He shall destroy bow, & break weapons: and shields he shall burn with fire.\n"
+	"Be quiet, and see that I am God: I shall be exalted among the gentiles, and I shall be exalted in the earth.\n"
+	"The Lord of hosts is with us: the God of Jacob is our defender.";

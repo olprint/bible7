@@ -1,0 +1,13 @@
+const char* chap519 = "Unto the end, for her that obtaineth the inheritance. The Psalm of David.\n"
+	"Receive, o Lord my words with thine ears, understand my cry.\n"
+	"Attend to the voice of my prayer, my King and my God.\n"
+	"Because I will pray to thee: Lord in the morning thou wilt hear my voice.\n"
+	"In the morning I will stand by thee and will see: because thou art not a God that wilt iniquity.\n"
+	"Neither shall the malignant dwell near thee: neither shall the unjust abide before thine eyes.\n"
+	"Thou hatest all that work iniquity: thou wilt destroy all that speak lie. The bloody and deceitful man our Lord will abhor:\n"
+	"But I in the multitude of thy mercy. I will enter into thy house: I will adore toward thy holy temple in thy fear.\n"
+	"Lord conduct me in thy justice: because of mine enemies direct my way in thy sight.\n"
+	"Because there is no truth in their mouth: their heart is vain.\n"
+	"Their throat is an open sepulchre, they did deceitfully with their tongues, judge them o God. Let them fail of their cogitations, according to the multitude of their impieties expel them, because they have provoked thee o Lord.\n"
+	"And let all be glad, that hope in thee, they shall rejoice for ever: and thou shalt dwell in them. And all that love thy name shall glory in thee,\n"
+	"because thou wilt bless the just. Lord, as with a shield of thy good will, thou hast crowned us.";

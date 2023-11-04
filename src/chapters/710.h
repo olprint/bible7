@@ -1,0 +1,11 @@
+const char* chap710 = "In my little bed in the nights I have sought him whom my soul loveth, I have sought him, and have not found.\n"
+	"I will rise, and will go about the city: by the streets and high ways I will seek him whom my soul loveth: I have sought him, and have not found.\n"
+	"The watchmen which keep the city found me: Have you seen him, whom my soul loveth?\n"
+	"When I had a little passed by them, I found him whom my soul loveth: I held him: neither will I let him go, till I bring him into my mother's house, and into the chamber of her that bare me.\n"
+	"I adjure you, o daughters of Jerusalem by the roes, and the harts of the fields, that you raise not up, nor make the beloved to awake, till herself will.\n"
+	"What is she, that ascendeth by the desert, as a little rod of smoke of the aromatical spices of myrrh and frankincense, & of all powder of the apothecary?\n"
+	"Behold threescore valiants of the most valiant of Israel, compass the little bed of Salomon:\n"
+	"all holding swords, and most cunning to battles: every man's sword upon his thigh for fears by night.\n"
+	"King Salomon hath made him a portable throne of the wood of Libanus:\n"
+	"the pillars thereof he hath made of silver, the seat of gold, the going up of purple: the midst he hath paved with charity for the daughters of Jerusalem.\n"
+	"Go forth ye daughters of Sion, and see king Salomon in the diadem, wherewith his mother hath crowned him in the day of his despousing, and in the day of the joy of his heart.";

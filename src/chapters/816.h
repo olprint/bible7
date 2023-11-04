@@ -1,0 +1,9 @@
+const char* chap816 = "Woe to them that go down into Aegypt for help, hoping in horses, and having confidence upon chariots, because they be many: and upon horsemen, because they be very strong: and have not trusted upon the holy one of Israel, & have not sought after our Lord.\n"
+	"But he that is the wise one hath brought evil, and hath not taken away his words: & he will rise up against the house of the wicked, and against the aid of them that work iniquity.\n"
+	"Aegypt, a man, and not God: and their horses, flesh, and not spirit: and our Lord shall bow down his hand, and the helper shall fall, and he that is holpen shall fall, and they shall all be confounded together.\n"
+	"Because thus saith our Lord to me: As if a lion should roar, and the lion's whelp upon his prey, and when a multitude of shepherds shall come against him, he will not fear at their voice, and of their multitude he will not be afraid: so shall the Lord of hosts descend to fight upon mount Sion, and upon the little hill thereof.\n"
+	"As birds that fly, so will the Lord of hosts protect Jerusalem, protecting and delivering, passing and saving.\n"
+	"Return as you revolted deeply, o children of Israel.\n"
+	"For in that day man shall cast away the idols of his silver, and the idols of his gold, which your hands have made you into sin.\n"
+	"And Assur shall fall by the sword not of man, and the sword not of man shall devour him, and he shall fly not at the face of the sword: & his young men shall be tributaries:\n"
+	"and his strength shall pass away at the terror, & his princes flying shall be afraid: our Lord hath said it: whose fire is in Sion, & his furnace in Jerusalem.";

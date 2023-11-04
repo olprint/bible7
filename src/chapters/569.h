@@ -1,0 +1,13 @@
+const char* chap569 = "Unto the end, for a people, that is made far from the Saints, David in the inscription of the title, when the foreigners held him in Geth.\n"
+	"Have mercy on me, o God, because man hath trodden upon me: all the day impugning he hath afflicted me.\n"
+	"Mine enemies have trodden upon me all the day: because they are many that war against me.\n"
+	"From the height of the day I shall fear: but I will trust in thee.\n"
+	"In God I will praise my words, in God have I hoped: I will not fear what flesh may do to me.\n"
+	"All the day did they detest my words; against me all their cogitations are unto evil.\n"
+	"They will inhabit and keep secret: they will observe my heel. As they have expected my soul,\n"
+	"for nothing shalt thou save them: in wrath thou wilt break peoples. O God,\n"
+	"I have shewed my life to thee: thou hast set my tears in thy sight. As also in thy promise:\n"
+	"then shall mine enemies be turned backward. In what day soever I shall invocate thee: lo I have known that thou art my God.\n"
+	"In God I will praise the word, in our Lord will I praise thee saying: I have hoped in God, I will not fear what man can do to me.\n"
+	"In me, o God are thy vows, which I will render, praises to thee.\n"
+	"Because thou hast delivered my soul from death, and my feet from falling: that I may please before God, in the light of the living.";

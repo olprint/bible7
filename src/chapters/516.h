@@ -1,0 +1,13 @@
+const char* chap516 = "Why did the Gentiles rage, and peoples meditate vain things?\n"
+	"The kings of the earth stood up, and the Princes came together in one against our Lord, and against his Christ.\n"
+	"Let us break their bonds a-sunder: and let us cast away their yoke from us.\n"
+	"He that dwelleth in the heavens shall laugh at them: and our Lord shall scorn them.\n"
+	"Then shall he speak to them in his wrath, & in his fury he shall trouble them.\n"
+	"But I am appointed king by him over Sion his holy hill, preaching his precept.\n"
+	"The Lord said to me: Thou art my Son, I this day have begotten thee.\n"
+	"Ask of me, and I will give thee the Gentiles, for thine inheritance, and thy possession the ends of the earth.\n"
+	"Thou shalt rule them in a rod of iron, and as a potter's vessel thou shalt break them in pieces.\n"
+	"And now ye kings understand: take instruction you that judge the earth.\n"
+	"Serve our Lord in fear: and rejoice to him with trembling.\n"
+	"Apprehend discipline lest sometime our Lord be wrath, and you perish out of the just way.\n"
+	"when his wrath shall burn in short time, blessed are all that trust in him.";

@@ -1,0 +1,11 @@
+const char* chap404 = "In the first year of Cyrus king of the Persians, that the word of our Lord by the mouth of Jeremy might be accomplished, our Lord raised up the spirit of Cyrus king of the Persians: & he made proclamation in all his Kingdom, yea by writing, saying:\n"
+	"Thus saith Cyrus king of the Persians: All the Kingdoms of the earth hath the Lord the God of heaven given me, and he hath commanded me that I should build him a house in Jerusalem, which is in Jewry.\n"
+	"Who is there among you of all his people? His God be with him. Let him go up into Jerusalem, which is in Jewry, and build the house of the Lord the God of Israel, he is the God that is in Jerusalem.\n"
+	"And let all the rest in all places wheresoever they dwell, let every man of his place help him, with silver and gold, and substance, and cattle, besides that which they offer voluntarily to the temple of God, which is in Jerusalem.\n"
+	"And there rose up the Princes of the fathers of Juda and Benjamin, and the Priests, and Levites, and every one, whose spirit God raised up, to go up to build the temple of our Lord, which was in Jerusalem.\n"
+	"And all that were round about, did help their hands in vessels of silver & of gold, in substance, and beasts, in furniture, besides those things which they had offered voluntarily.\n"
+	"King Cyrus also brought forth the vessels of the temple of our Lord, which Nabuchodonosor had taken out of Jerusalem, & had put them in the temple of his god.\n"
+	"But Cyrus the king of Persians brought them forth by the hand of Mithridates the son of Gazabar, & numbered them to Sassabasar the Prince of Juda.\n"
+	"And this is the number of them: Phials of gold thirty, Phials of silver a thousand, knives twenty nine, goblets of gold thirty,\n"
+	"goblets of silver of the second order, four hundred ten: other vessels a thousand.\n"
+	"All the vessels of gold & silver, five thousand four hundred: Sassabasar took all, with them that went up from the transmigration of Babylon into Jerusalem.";

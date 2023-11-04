@@ -1,0 +1,11 @@
+const char* chap835 = "Thus saith our Lord: What is this bill of the divorce of our mother, wherewith I have dismissed her? Or who is my creditor, to whom I sold you? Lo you are sold for your wicked deeds, I have dismist your mother.\n"
+	"Because I came, and there was not a man: I called, and there was none that would hear. Why, is mine hand abridged and made a little one, that I cannot redeem? Or is there no strength in me to deliver? Behold, in my rebuke I will make the sea desert, I will turn the floods into dry land: the fishes shall rot without water, and shall die for thirst.\n"
+	"I will clothe the heavens with darkness, and will make sackcloth their covering.\n"
+	"The Lord hath given me a learned tongue, that I may know to stay him up that is weary, with a word: he stirreth up in the morning, in the morning he stirreth up mine ear, that I may hear him as a master.\n"
+	"The Lord God hath opened mine ear, & I do not gainsay? I am not gone backward.\n"
+	"I have given my body to the strikers, & my cheeks to the pluckers: I have not turned away my face from the rebukers & spitters.\n"
+	"The Lord God is mine helper, therefore am I not confounded: therefore have I set my face, as a most hard rock, and I know that I shall not be confounded.\n"
+	"He is near that justifieth me, who shall gainsay me? Let us stand together. Who is mine adversary? Let him come to me.\n"
+	"Behold the Lord God my helper: who is he that shall condemn me? Lo they shall all be destroyed as a garment, the moth shall eat them.\n"
+	"Which of you feareth our Lord, heareth the voice of his servant, who hath walked in darkness, and hath no light? Let him hope in the name of our Lord, & lean upon his God.\n"
+	"Lo all you do kindle a fire, are compassed with flames, walk in the light of your fire, and in the flames which you have kindled: of my hand is this done to you, you shall sleep in sorrows.";

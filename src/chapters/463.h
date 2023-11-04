@@ -1,0 +1,10 @@
+const char* chap463 = "The king therefore and Aman went in, to drink with the queen.\n"
+	"And the king said to her also the second day, after he was warm with wine: What is thy petition Esther, that it may be given thee? And what wilt thou^ have done? Although thou shalt ask the half part of my Kingdom, thou shalt obtain.\n"
+	"To whom she answered: If I have found grace in thine eyes o king, and if it please thee, give me my life for the which I make request, and my people for the which I beseech.\n"
+	"For we are delivered I and my people, to be destroyed, murdered, and to perish. And would to God we were sold for bondmen & bond-women: it were a tolerable evil, and mourning I would hold my peace: but now it is our enemy, whose cruelty redoundeth upon the king.\n"
+	"And king Assuerus answering, said: Who is this, and of what might, that he dare do these things?\n"
+	"And Esther said: It is this Aman our adversary and most wicked enemy. Which he hearing forthwith was astonished, not enduring to bear the countenance of the king and of the queen.\n"
+	"But the king being wrath rose up, and from the place of the banquet went into the garden set with trees. Aman also rose up, to entreat Esther the queen for his life, for he understood that there was evil prepared him of the king.\n"
+	"Who when he was returned out of the garden set with trees, and had entered into the place of the banquet, he found Aman to have fallen upon the bed, wherein Esther lay, and he said: The queen also he will force in my presence, in my house. Neither was the word yet passed from the king's mouth, and immediately they covered his face.\n"
+	"And Harbona, one of the eunuchs which stood waiting of the king, said: Behold the gibbet, which he had prepared for Mardocheus, that spake for the king, standeth in Aman's house, having in height fifty cubits.\n"
+	"To whom the king said: Hang him upon it. Aman therefore was hanged on the gibbet, which he had prepared for Mardocheus: and the king's wrath ceased.";

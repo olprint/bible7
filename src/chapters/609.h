@@ -1,0 +1,13 @@
+const char* chap609 = "A Canticle to David himself, when the house was built after the captivity. Sing ye to our Lord a new song: sing to our Lord all the earth.\n"
+	"Sing ye to our Lord, and bless his name: shew forth his salvation from day to day.\n"
+	"Shew forth his glory among the Gentiles, his marvelous works in all peoples.\n"
+	"Because our Lord is great, and exceeding laudable: he is terrible above all gods.\n"
+	"Because all the gods of the Gentiles are devils, but our Lord made the heavens.\n"
+	"Confession and beauty in his sight: holiness and magnificence in his sanctification.\n"
+	"Bring to our Lord ye families of Gentiles, bring ye to our Lord glory and honour:\n"
+	"bring to our Lord glory unto his name. Take up hosts, and enter into his courts:\n"
+	"adore ye our Lord in his holy court. Let all the earth be moved before his face:\n"
+	"Say ye among the Gentiles that our Lord hath reigned. For he hath corrected the round world, which shall not be moved: he will judge peoples in equity.\n"
+	"Let the heavens be glad, and the earth rejoice, the sea be moved, and the fullness thereof:\n"
+	"the fields shall be glad, and all things that are in them. Then shall the trees of the woods rejoice\n"
+	"before the face of our Lord, because he cometh: because he cometh to judge the earth. He will judge the round world in equity, and peoples in his truth.";

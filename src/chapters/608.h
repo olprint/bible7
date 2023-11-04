@@ -1,0 +1,11 @@
+const char* chap608 = "Praise of Canticle, to David himself. Come, let us rejoice to our Lord: let us make jubilation to God our saviour.\n"
+	"Let us prevent his face in confession: and in Psalms let us make jubilation to him.\n"
+	"Because our Lord is a great God: and a great King above all gods.\n"
+	"Because in his hand are the ends of the earth: and the heights of the mountains be his.\n"
+	"Because the sea is his, and he made it: and his hands formed the dry land.\n"
+	"Come let us adore, and fall down: and weep before our Lord, that made us.\n"
+	"Because he is the Lord our God, and we the people of his pasture, and the sheep of his hand.\n"
+	"Today if ye shall hear his voice, harden not your hearts.\n"
+	"As in the provocation according to the day of the tentation in the desert: where your fathers tempted me, proved me, and saw my works.\n"
+	"Forty years was I offended with that generation, and said: These always err in heart.\n"
+	"And these have not known my ways: as I sware in my wrath: if they shall enter into my rest.";

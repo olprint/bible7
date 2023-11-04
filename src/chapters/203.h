@@ -1,0 +1,10 @@
+const char* chap203 = "The lot also of the children of Joseph fell from Jordan against Jericho and the Waters thereof, on the east: the wilderness which goeth up from Jericho to the mountain of Bethel:\n"
+	"and goeth out from Bethel to Luza: and passeth the border of Archia, to Atharoth.\n"
+	"And descendeth Westward, by the border of Iephleti, unto the borders of Beth horon the lower, and to Gazer: and their countries are ended by the great sea:\n"
+	"and Manasses and Ephraim the children of Joseph possessed it.\n"
+	"And the border of the children of Ephraim was made according to their kindreds: and their possession toward the East was Ataroth addar unto Beth-horon the higher.\n"
+	"And the confines go out unto the sea: but Machmethath looketh to the North, and it compasseth the borders against the East into Thanath-selo: and passeth through on the East side to Janoe.\n"
+	"and it goeth down from Janoe into Ataroth and Naaratha: and it cometh into Jericho, & goeth out to Jordan.\n"
+	"From Taphua it passeth through against the sea into the Valley of reeds, and the issues thereof are into the most salt sea. This is the possession of the tribe of the children of Ephraim by their families.\n"
+	"And cities with their villages were separated to the children of Ephraim in the midst of the possession of the children of Manasses,\n"
+	"and the children of Ephraim slew not the Chananite, which dwelt in Gazer: and the Chananite dwelt in the midst of Ephraim until this day tributary.";

@@ -1,0 +1,12 @@
+const char* chap987 = "As the morning passed, hath the king of Israel passed away. Because Israel was a child, and I loved him: & out of Aegypt I called my son.\n"
+	"They called them, so they departed from their face: they immolated to Baalim, and sacrificed to idols.\n"
+	"And I as it were the nurse of Ephraim, carried them in mine arms: and they knew not that I cured them.\n"
+	"In the cords of Adam I will draw them, in the bands of charity: and I will be to them as lifting up the yoke upon their cheeks: and I declined to him that he might eat.\n"
+	"He shall not return into the Land of Aegypt, and Assur he his king: because they would not convert.\n"
+	"The sword hath begun in his cities, and it shall consume his elect, and shall eat their heads.\n"
+	"And my people shall hang upon my return: but a yoke shall be put upon them together, which shall not be taken away.\n"
+	"How shall I give thee Ephraim, protect thee Israel? How shall I give thee as Adama, lay thee as Seboim? My heart is turned within, my repentance is disturbed together.\n"
+	"I will not do the fury of my wrath: I will not return to destroy Ephraim: because I am God, and not man: in the midst of thee the Holy one, and I will not enter into the city.\n"
+	"They shall walk after our Lord, as a lion will he roar: because he will roar, and the children of the sea shall fear.\n"
+	"And they shall fly away as a bird out of Aegypt, and as a dove out of the Land of the Assyrians: and I will place them in their houses, saith our Lord.\n"
+	"Ephraim hath compassed me in denying, and the house of Israel in deceit: but Judas a witness is descended with God, and with the saints, faithful.";

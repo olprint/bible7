@@ -1,0 +1,12 @@
+const char* chap838 = "Who hath believed our hearing? And the arm of our Lord to whom is it revealed?\n"
+	"And he shall come up as a young spring before him, and as a root from a thirsty ground: there is no beauty in him, nor comeliness, and we have seen him, and there was no sightliness, and we were desirous of him.\n"
+	"Despised, and most abject of men, a man of sorrows, and knowing infirmity: and his look as it were hid and despised, whereupon neither have we esteemed him.\n"
+	"He surely hath born our infirmities, and our sorrows he hath carried: and we have thought him as it were a leper, & strucken of God, and humbled.\n"
+	"But he was wounded for our iniquities, he was broken for our sins: the discipline of our peace upon him, and with the wail of his stripe we are healed.\n"
+	"All we have strayed as sheep, every one hath declined into his own way: and our Lord hath put upon him the iniquity of all us.\n"
+	"He was offered because himself would, and opened not his mouth: as a sheep to slaughter shall he be led, and as a lamb before his shearer, he shall be dumb, & shall not open his mouth:\n"
+	"from distress and from judgement he was taken up: who shall declare his generation? Because he is cut out of the land of the living, for the wickedness of my people have I strucken him.\n"
+	"And he shall give the impious for his burial, and the rich for his death: because he hath not done iniquity, neither was there guile in his mouth.\n"
+	"And our Lord would break him in infirmity. If he shall put away his soul for sin, he shall see seed of long age, and the will of our Lord shall be directed in his hand.\n"
+	"For that his soul hath laboured, he shall see and be filled: in his knowledge the same my just servant shall justify many, and he shall bear their iniquities.\n"
+	"Therefore will I distribute unto him very many, and he shall divide the spoils of the strong, for that he hath delivered his soul unto death, and was reputed with the wicked: and he hath borne the sins of many, and hath prayed for the transgressors.";

@@ -1,0 +1,12 @@
+const char* chap271 = "And Isboseth the son of Saul heard that Abner was slain in Hebron: and his hands were weakened, and all Israel was troubled.\n"
+	"And the son of Saul had two men captains of robbers, the name of one Baana, & the name of the other Rechab, the sons of Rhemmon the Berothite of the sons of Benjamin: for Beroth also was accounted in Benjamin.\n"
+	"And the Berothites fled into Gethaim, and were there strangers until that time.\n"
+	"And Jonathas the son of Saul had a son lame in his feet: for he was five years old, when the tidings came of Saul and Jonathas from Jezrahel. His nurse therefore taking him, fled: and when she made haste to fly, he fell, & was made lame: and he was called Miphiboseth.\n"
+	"Therefore the sons of Rhemmon the Berothite, Rechab and Baana coming, entered into the house of Isboseth in the heat of the day: who slept upon his bed at noon. And the Portress of the house that winnowed wheat, was asleep.\n"
+	"And they entered into the house secretly taking ears of corn, and Rechab and Baana his brother struck him in privy parts and fled.\n"
+	"And when they were entered into the house, he slept upon his bed in a parlour, and striking they killed him: and taking away his head they went by the way of the desert all night.\n"
+	"And brought the head of Isboseth to David into Hebron: & they said to the king: Behold the head of Isboseth the son of Saul thine enemy, who sought thy life: and our Lord hath given my lord the king this day revenge of Saul, and of his seed.\n"
+	"But David answering Rechab and Baana his brother, the sons of Rhemmon the Berothite, said to them: Our Lord liveth, which hath delivered my soul out of all distress,\n"
+	"for so much as him that told me, and said: Saul is dead, who thought that he told prosperous things, I apprehended, and slew him in Siceleg, to whom I should have given a reward for his tidings.\n"
+	"How much more now when wicked men have slain an innocent man in his own house, upon his bed, shall I not require his blood of your hand, and take you away from the earth?\n"
+	"David therefore commanded his servants, and they slew them, and cutting off their hands and feet, hanged them over the pool in Hebron: but the head of Isboseth they took, and buried in the sepulchre of Abner in Hebron.";

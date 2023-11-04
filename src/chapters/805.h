@@ -1,0 +1,6 @@
+const char* chap805 = "In the year that Tharthan entered into Azotus, when Sargon the king of the Assyrians had sent him, and he had fought against Azotus, and had taken it:\n"
+	"at that time our Lord spake in the hand of Isaie the son of Amos, saying: Go, and loose the sackcloth from off thy loins, and take off thy shoes from thy feet. And he did so going naked, and barefoot.\n"
+	"And our Lord said: As my servant Isaie hath walked, naked and barefoot, it shall be a sign and a wonder of three years upon Aegypt, and upon Aethiopia,\n"
+	"so shall the king of the Assyrians lead the captivity of Aegypt, and the transmigration of Aethiopia, young and old, naked and unshod, their buttocks uncovered to the ignominy of Aegypt.\n"
+	"And they shall fear, & be ashamed of Aethiopia their hope, and of Aegypt their glory.\n"
+	"And the inhabitant of this isle shall say in that day: Lo this was our hope, to whom we fled for help, that they should deliver us from the face of the king of the Assyrians: and how shall we be able to escape?";

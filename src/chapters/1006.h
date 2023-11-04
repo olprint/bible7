@@ -1,0 +1,10 @@
+const char* chap1006 = "And the word of our Lord was made to Jonas the second time, saying:\n"
+	"Arise, and go into Ninive the great city: and preach in it the preaching which I speak to thee.\n"
+	"And Jonas arose, and went into Ninive according to the word of our Lord: and Ninive was a great city of three days' journey.\n"
+	"And Jonas began to enter into the city one day's journey: & he cried, and said: As yet forty days, and Ninive shall be subverted.\n"
+	"And the men of Ninive believed in God: and they proclaimed a fast, and were clothed with sackcloths from the greater to the lesser.\n"
+	"And the word came to the king of Ninive: and he rose up out of his throne, and cast away his garment from him, and was clothed with sackcloth, and sat in ashes\n"
+	"And he cried, and said in Ninive from the mouth of the king and of his princes, saying: Men, and beasts, and oxen, and cattle let them not taste any thing: nor feed, and let them not drink water.\n"
+	"And let men, and beasts be covered with sackcloths, and cry to our Lord in strength, and let every man convert from his evil way, and from the iniquity, that is in their hands.\n"
+	"Who knoweth if God will convert, and forgive: and will return from the fury of his wrath, and we shall not perish?\n"
+	"And God saw their works, that they were converted from their evil way: and God had mercy on the evil which he had spoken, that he would do to them, and he did it not.";

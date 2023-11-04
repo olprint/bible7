@@ -1,0 +1,12 @@
+const char* chap241 = "And the Philisthiims took the ark of God, and carried it from the Stone of help into Azotus.\n"
+	"And the Philisthiims took the ark of God, and brought it into the temple of Dagon, and set it beside Dagon.\n"
+	"And when the Azotians had risen early the next day, behold Dagon, lay flat on the ground before the ark of our Lord: and they took Dagon, and restored him into his place.\n"
+	"And again early the next day rising up, they found Dagon lying upon his face on the earth before the ark of our Lord: & the head of Dagon, & the two palms of his hands were cut off upon the threshold:\n"
+	"moreover the body only of Dagon was remaining in his place. For this cause the priests of Dagon, and all that enter into his temple, tread not upon the threshold of Dagon in Azotus until this day.\n"
+	"And the hand of our Lord was heavy upon the Azotians, and he plagued them, and struck Azotus and the coasts thereof in the secret part of the fundament. And the towns and fields bubbled forth in the midst of that country, and there came forth mice, and there was confusion of great death in the city.\n"
+	"And the men of Azotus seeing this manner of plague, said: Let not the ark of the God of Israel tarry with us: because his hand is sore upon us, and upon Dagon our god.\n"
+	"And sending they gathered together all the Princes of the Philisthiims to them, and said: What shall we do with the ark of the God of Israel? And the Getheites answered: Let the ark of the God of Israel be carried about, and they carried about the ark of the God of Israel.\n"
+	"And they carrying it about, the hand of our Lord was made through every city by an exceeding great slaughter: and it struck the men of every city, from little unto great, and they had emeroids in their secret parts. And the Getheites took counsel, and made themselves stools of skins.\n"
+	"They sent therefore the ark of God into Accaron. And when the ark of God was come into Accaron, the Accaronites cried out, saying: They have brought unto us the ark of the God of Israel, to kill us and our people.\n"
+	"They sent therefore and gathered together all the Princes of the Philistiims, who said: Dismiss the ark of the God of Israel, & let it return into his place, and not kill us with our people.\n"
+	"For there was made the fear of death in every city, and the hand of God exceeding grievous. The men also that had not died, were strucken in the secret part of the buttocks: and the howling of every city went up into heaven.";
