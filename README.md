@@ -1,1 +1,1 @@
-### A configurable Catholic Bible for Linux OS.
+### A configurable Catholic Bible for Linux operating systems.
