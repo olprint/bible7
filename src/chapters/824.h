@@ -1,8 +1,0 @@
-const char* chap824 = "At that time Merodach Baladan the son of Baladan, king of Babylon, sent letters & gifts to Ezechias: for he had heard that he had been sick, and was recovered,\n"
-	"And Ezechias rejoiced upon them, and he shewed them the storehouse of aromatical spices, & of silver, and of gold, and of sweet-odours and of the best ointment, and all the store houses of his furniture, and all things that were found in his treasures. There was not any thing, which Ezechias shewed them not in his house, and in all his dominion.\n"
-	"But Isaie the Prophet went in to Ezechias the king, and said to him: What said these men, and from whence came they to thee? And Ezechias said: from a far country they came to me, from Babylon.\n"
-	"And he said: What saw they in thy house? And Ezechias said: All things that are in my house have they seen, there was not any thing, which I have not shewed them in my treasures.\n"
-	"And Isaie said to Ezechias: Hear the word of the Lord of hosts.\n"
-	"Behold the days shall come: and all things that are in thy house, and that thy fathers have laid up for treasure until this day, shall be taken away into Babylon: there shall not any thing be left, saith our Lord.\n"
-	"And of thy children, which shall come forth of thee, whom thou shalt beget, they shall take away, and they shall be eunuchs in the palace of the king of Babylon.\n"
-	"And Ezechias said to Isaie: The word of our Lord which he hath spoken is good. And he said: Only be there peace and truth in my days.";

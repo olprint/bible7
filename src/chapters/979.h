@@ -1,5 +1,0 @@
-const char* chap979 = "And our Lord said to me: Yet again go, love a woman beloved of her friend, and an adulteress; as our Lord loveth the children of Israel, and they have respect to strange gods, and love the kernels of grapes.\n"
-	"And I digged her unto me for fifteen pieces of silver, and for a core of barley, and for half a core of barley.\n"
-	"And I said to her: Thou shalt expect me many days: thou shalt not fornicate, and thou shalt be no man's: but I also will expect thee.\n"
-	"Because many days shall the children of Israel sit without king, and without prince, and without sacrifice, and without altar, and without ephod, and without theraphim.\n"
-	"And after this the children of Israel shall return, and shall seek the Lord their God, and David their king: and they shall dread at the Lord, and at his goodness in the last days.";

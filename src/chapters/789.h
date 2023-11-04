@@ -1,6 +1,0 @@
-const char* chap789 = "And seven women shall take hold of one man in that day, saying: We will eat our own bread, and be covered with our garments: only let thy name be called upon us, take away our reproach.\n"
-	"In that day the bud of our Lord shall be in magnificence, and glory, and the fruit of the earth high, and exultation to them, that shall be saved of Israel.\n"
-	"And it shall be: Every one that shall be left in Sion, and shall remain in Jerusalem, shall be called holy, every one that is written in life in Jerusalem.\n"
-	"If our Lord shall cleanse the filth of the daughters of Sion, and shall wash the blood of Jerusalem out of the midst thereof in the spirit of judgement, and spirit of heat.\n"
-	"And our Lord shall create upon every place of mount Sion, and where he is invocated, a cloud by day, and smoke, and the brightness of flaming fire in the night: for upon all glory protection.\n"
-	"And there shall be a tabernacle for a place of shadow in the day from the heat, and for security, and covert from the whirlwind, and from rain.";

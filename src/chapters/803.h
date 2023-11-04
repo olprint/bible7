@@ -1,7 +1,0 @@
-const char* chap803 = "Woe to the land the cymbal of wings, which is beyond the rivers of Aethiopia,\n"
-	"which sendeth legates into the sea, and in the vessels of bulrushes upon the waters. Go ye swift angels to a nation shaken a sunder, and torn in pieces: to a terrible people, after which there is none other: to a nation expecting and trodden under foot, whose land the floods have spoiled:\n"
-	"All ye inhabitants of the world, which abide in the earth, where the sign shall be lifted up in the mountains, you shall see, and shall hear the sound of the trumpet:\n"
-	"because thus saith our Lord to me: I will rest, and consider in my place, as the noon light is clear, and as a cloud of dew in the day of harvest.\n"
-	"For before harvest it hath wholly flourished, and unripe perfection shall spring forth, and the boughs thereof shall be cut off with hooks: and the things that are left, shall be cut off, and shaken out.\n"
-	"And they shall be left together to the birds of the mountains, and beasts of the earth: and the fowls shall be upon it the whole summer, and all the beasts of the earth shall winter upon it.\n"
-	"In that time shall a gift be brought to the Lord of hosts, of a people plucked asunder and rent in pieces: of a terrible people, after which there hath been none other, of a nation expecting and trodden under foot, whose land the floods have spoiled, to the place of the name of the Lord of hosts, mount Sion.";
