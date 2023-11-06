@@ -1,7 +1,7 @@
 ## Bible7
 
 Discontinued temporarily.
-Visit https://olprint.codeberg.page/Augmented-Bible/@main
+Visit https://codeberg.org/olprint/Augmented-Bible
 
 ### Dedicated to Our Lady of La Salette :one:
 
