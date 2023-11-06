@@ -1,9 +1,0 @@
-const char* chap207 = "And our Lord spake to Josue, saying: Speak to the children of Israel, and say to them:\n"
-	"Separate the cities of the fugitives, of the which I spake to you by the hand of Moyses;\n"
-	"that he may fly to them whosoever shall strike a soul unwitting, and may escape the wrath of the nigh kinsman, which is the revenger of blood.\n"
-	"When he shall be fled to one of these cities, he shall stand before the gate of the city & shall speak to the ancients of that city those things that may prove himself innocent: & so they shall receive him, and give him place to inhabit.\n"
-	"And when the revenger of the blood shall pursue him, they shall not deliver him into his hands: because he struck his neighbour by ignorance, neither is he proved to be his enemy two or three days before.\n"
-	"And he shall dwell in that city till he stand before judgment rendering a cause of his fact, and the high priest die, which shall be at that time: then shall the manslayer return, & enter into the city and his house out of the which he had fled.\n"
-	"And they appointed Cedes in Galilee of the mount of Nephthali, and Sichem in the mount of Ephraim, and Cariatharbee, the same is Hebron, in the mount of Juda.\n"
-	"And beyond Jordan against the East quarter of Jericho, they appointed Bosor, which is situated in the champion wilderness of the tribe of Ruben, and Ramoth in Galaad of the tribe of Gad, and Gaulon in Basan of the tribe of Manasses.\n"
-	"These cities were appointed to all the children of Israel, and to the strangers, that dwelt among them: that he might fly to them which unwittingly had strucken a soul, and might not die in the hand of the kinsman, coveting to revenge the blood shed, until he might stand before the people to declare his cause.";
